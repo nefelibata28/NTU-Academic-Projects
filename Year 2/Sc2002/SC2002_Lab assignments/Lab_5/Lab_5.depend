@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1698665674 source:c:\users\nancy\onedrive\documents\ntu\year 2 sem1\sc2002\lab_5\main.cpp
+	<iostream>
+
+1698664885 source:c:\users\nancy\onedrive\documents\ntu\year 2 sem1\sc2002\lab_5\src\animal.cpp.cpp
+	"Animal.cpp.h"
+	<iostream>
+	<string>
+
+1698671951 c:\users\nancy\onedrive\documents\ntu\year 2 sem1\sc2002\lab_5\include\animal.cpp.h
+	<iostream>
+	<string>
+
+1698672551 source:c:\users\nancy\onedrive\documents\ntu\year 2 sem1\sc2002\lab_5\childanimal.cpp
+	"childAnimal.h"
+	<iostream>
+	<string>
+
+1698712834 c:\users\nancy\onedrive\documents\ntu\year 2 sem1\sc2002\lab_5\childanimal.h
+	"Animal.cpp.h"
+
+1698712859 source:c:\users\nancy\onedrive\documents\ntu\year 2 sem1\sc2002\lab_5\zoomain.cpp
+	<iostream>
+	"Animal.cpp.h"
+	"childAnimal.h"
+
