@@ -1,5 +1,4 @@
-##SC1003 Assignment 1
-##Flight Seating Reservation System 
+# SC1003 Assignment 1: Flight Seating Reservation System
 
 ## Overview
 This project implements a **console-based flight seating reservation system** in C for Airlines.  
