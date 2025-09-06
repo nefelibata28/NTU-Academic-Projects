@@ -1,5 +1,5 @@
-#SC1003 Assignment 1
-#Flight Seating Reservation System 
+##SC1003 Assignment 1
+##Flight Seating Reservation System 
 
 ## Overview
 This project implements a **console-based flight seating reservation system** in C for Airlines.  
@@ -26,12 +26,12 @@ The program demonstrates fundamental **C programming concepts** such as structur
 ---
 
 ## Menu
-When executed, the program displays the following menu:
-NTU AIRLINES SEATING RESERVATION PROGRAM:
-1: listTakenSeat()
-2: assignSeat()
-3: removeSeat()
-4: quit
+When executed, the program displays the following menu: <br>
+NTU AIRLINES SEATING RESERVATION PROGRAM:<br>
+1: listTakenSeat() <br>
+2: assignSeat() <br>
+3: removeSeat() <br>
+4: quit <br>
 
 ## Technical Details
 - **Language:** C  
