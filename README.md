@@ -3,9 +3,9 @@
 This repository contains my academic projects from Year 1 through Year 3 at NTU.
 
 ## Contents
-- **Year 1** – SC1003 (Introduction to Computational Thinking & Programming), SC1015(Introduction to Data Science & Artificial Intelligence)
-- **Year 2** – SC1007 (Data Structures & Algorithms), SC2001(Algorithm Design & Analysis), SC2002(Object Oriented Design & Programming), SC2008(Computer Network), SC2207(Introduction to Databases)
-- **Year 3** – SC3000(Artificial Intelligence ), SC3010(Computing Security), SC4000(Machine Learning), SC4020(Data Analytics and Mining )
+- **Year 1** – SC1003 (Introduction to Computational Thinking & Programming), SC1015 (Introduction to Data Science & Artificial Intelligence)
+- **Year 2** – SC1007 (Data Structures & Algorithms), SC2001 (Algorithm Design & Analysis), SC2002 (Object Oriented Design & Programming), SC2008 (Computer Network), SC2207 (Introduction to Databases)
+- **Year 3** – SC3000 (Artificial Intelligence ), SC3010 (Computing Security), SC4000 (Machine Learning), SC4020 (Data Analytics and Mining )
 
 Explore the folder corresponding to each year for detailed project documentation.
 
