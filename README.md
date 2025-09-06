@@ -14,9 +14,9 @@ Explore the folder corresponding to each year for detailed project documentation
 
 | Year      | Semester 1                              | Semester 2                              |
 |-----------|------------------------------------------|------------------------------------------|
-| **Year 1** | - [Project Name 1](Year%201/Project1) <br> - [Project Name 2](Year%201/Project2) | - [Project Name 3](Year%201/Project3) <br> - [Project Name 4](Year%201/Project4) |
+| **Year 1** | - [SC1003](Year%201/Project1) <br> - [Project Name 2](Year%201/Project2) | - [Project Name 3](Year%201/Project3) <br> - [Project Name 4](Year%201/Project4) |
 | **Year 2** | - [Project Name 1](Year%202/Project1) <br> - [Project Name 2](Year%202/Project2) | - [Project Name 3](Year%202/Project3) <br> - [Project Name 4](Year%202/Project4) |
 | **Year 3** | - [Project Name 1](Year%203/Project1) <br> - [Project Name 2](Year%203/Project2) | - [Project Name 3](Year%203/Project3) <br> - [Project Name 4](Year%203/Project4) |
-|-----------|------------------------------------------|------------------------------------------|
+
 
 All projects are academic assignments or coursework doen at NTU.
