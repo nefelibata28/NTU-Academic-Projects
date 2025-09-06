@@ -47,35 +47,28 @@ This repository contains my academic coursework and projects from **Year 1 throu
 
 ---
 
-## 🛠️ Technologies Used
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-
----
 
 ## 📁 Folder Structure
 NTU-Academic-Projects/
-├── Year 1/
-│ ├── SC1003 - Introduction to Computational Thinking and Programming/
-│ └── SC1015 - Introduction to Data Science and Artificial Intelligence/
-├── Year 2/
-│ ├── SC1007 - Data Structures and Algorithms/
-│ ├── SC2001 - Algorithm Design and Analysis/
-│ ├── SC2002 - Object-Oriented Design and Programming/
-│ ├── SC2006 - Software Engineering/
-│ ├── SC2008 - Computer Networks/
-│ └── SC2207 - Introduction to Databases/
-├── Year 3/
-│ ├── SC2079 - Multidisciplinary Design Project/
-│ ├── SC3000 - Artificial Intelligence/
-│ ├── SC3010 - Computing Security/
-│ ├── SC4000 - Machine Learning/
-│ └── SC4020 - Data Analytics and Mining/
+├── 📁 Year 1/
+│   ├── SC1003 - Introduction to Computational Thinking and Programming/
+│   └── SC1015 - Introduction to Data Science and Artificial Intelligence/
+├── 📁 Year 2/
+│   ├── SC1007 - Data Structures and Algorithms/
+│   ├── SC2001 - Algorithm Design and Analysis/
+│   ├── SC2002 - Object-Oriented Design and Programming/
+│   ├── SC2006 - Software Engineering/
+│   ├── SC2008 - Computer Networks/
+│   └── SC2207 - Introduction to Databases/
+├── 📁 Year 3/
+│   ├── SC2079 - Multidisciplinary Design Project/
+│   ├── SC3000 - Artificial Intelligence/
+│   ├── SC3010 - Computing Security/
+│   ├── SC4000 - Machine Learning/
+│   └── SC4020 - Data Analytics and Mining/
 └── README.md
+
 
 > 🗂️ Each folder contains:
 > - A detailed `README.md` describing the project
