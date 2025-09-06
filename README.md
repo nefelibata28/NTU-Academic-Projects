@@ -33,7 +33,7 @@ This repository contains my academic coursework and projects from **Year 1 throu
 - [📁 Year 2](./Year%202/)
 - [📁 Year 3](./Year%203/)
 
-  > 🗂️ Each folder contains:
+> 🗂️ Each folder contains:
 > - A detailed `README.md` describing the project
 > - Source code or Jupyter notebooks
 > - Any datasets, documentation, or reports relevant to the coursework
@@ -54,7 +54,3 @@ This repository contains my academic coursework and projects from **Year 1 throu
 
 
 
-
-
-
----
