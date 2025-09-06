@@ -3,7 +3,7 @@
 
 ## Overview
 This project was completed as part of the **Computing Security module**.  
-We were tasked to select two **real-world security breach** and write a detailed case study analyzing:
+We(group) were tasked to select two **real-world security breach** and write a detailed case study analyzing:
 - What happened during the breach
 - Why the security system failed
 - The consequences of the incident
