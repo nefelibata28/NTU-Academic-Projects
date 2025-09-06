@@ -1,7 +1,7 @@
 # SC1003 Assignment 1: Flight Seating Reservation System
 
 ## Overview
-Project Overview
+Project Assignment Overview: <br>
 https://entuedu-my.sharepoint.com/:b:/g/personal/nancy001_e_ntu_edu_sg/EXnlinfBQxlMrslJWTm_vDUB2fo_TuB62s2Xt9H8Wf3XqA?e=hTddPN
 
 This project implements a **console-based flight seating reservation system** in C for Airlines.  
