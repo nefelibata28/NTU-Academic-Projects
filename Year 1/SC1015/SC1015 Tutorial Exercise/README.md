@@ -19,3 +19,14 @@ All content is implemented in **Jupyter notebooks**.
 | Tutorial 7 | [Problem](https://github.com/nefelibata28/NTU-Academic-Projects/blob/main/Year%201/SC1015/SC1015%20Tutorial%20Exercise/Exercise7_Problem.ipynb) | [Solution](https://github.com/nefelibata28/NTU-Academic-Projects/blob/main/Year%201/SC1015/SC1015%20Tutorial%20Exercise/Exercise7_solution.ipynb) |
 | Tutorial 8 | [Problem](https://github.com/nefelibata28/NTU-Academic-Projects/blob/main/Year%201/SC1015/SC1015%20Tutorial%20Exercise/Exercise8_Problem.ipynb) | [Solution](https://github.com/nefelibata28/NTU-Academic-Projects/blob/main/Year%201/SC1015/SC1015%20Tutorial%20Exercise/Exercise8_solution.ipynb) |
 
+---
+## Technology Stack
+- Python 3.10
+- Jupyter Notebook 6.5
+- Libraries:
+  - pandas
+  - numpy
+  - matplotlib
+  - seaborn
+  - scikit-learn
+  - plotly
