@@ -10,8 +10,7 @@ The notebooks cover a variety of topics and provide step-by-step guidance to hel
 
 ## Tutorials Probelems
 
-| Tutorials|
-|---------------|
+| Tutorial | PDF Link |
 |----------|----------|
 | Tutorial 1 | [View PDF](https://entuedu-my.sharepoint.com/:b:/g/personal/nancy001_e_ntu_edu_sg/EeBQMiPmlYpBu_zp7j5lbxQBiP7ZE4qomhMxM9GnlB8z_g?e=W8b1sL) |
 | Tutorial 2 | [View PDF]([https://example.com/tutorial2.pdf](https://entuedu-my.sharepoint.com/:b:/g/personal/nancy001_e_ntu_edu_sg/EdGSEbdLkJNMtwP7rswZcP8BwF3Dd7h5GTHwcnzVxxOQcQ?e=cF9MR0)) |
