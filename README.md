@@ -33,6 +33,11 @@ This repository contains my academic coursework and projects from **Year 1 throu
 - [📁 Year 2](./Year%202/)
 - [📁 Year 3](./Year%203/)
 
+  > 🗂️ Each folder contains:
+> - A detailed `README.md` describing the project
+> - Source code or Jupyter notebooks
+> - Any datasets, documentation, or reports relevant to the coursework
+
 ---
 
 ## 📊 Project Breakdown by Year & Semester
@@ -49,30 +54,7 @@ This repository contains my academic coursework and projects from **Year 1 throu
 
 
 
-## 📁 Folder Structure
-NTU-Academic-Projects/
-├── 📁 Year 1/
-│   ├── SC1003 - Introduction to Computational Thinking and Programming/
-│   └── SC1015 - Introduction to Data Science and Artificial Intelligence/
-├── 📁 Year 2/
-│   ├── SC1007 - Data Structures and Algorithms/
-│   ├── SC2001 - Algorithm Design and Analysis/
-│   ├── SC2002 - Object-Oriented Design and Programming/
-│   ├── SC2006 - Software Engineering/
-│   ├── SC2008 - Computer Networks/
-│   └── SC2207 - Introduction to Databases/
-├── 📁 Year 3/
-│   ├── SC2079 - Multidisciplinary Design Project/
-│   ├── SC3000 - Artificial Intelligence/
-│   ├── SC3010 - Computing Security/
-│   ├── SC4000 - Machine Learning/
-│   └── SC4020 - Data Analytics and Mining/
-└── README.md
 
 
-> 🗂️ Each folder contains:
-> - A detailed `README.md` describing the project
-> - Source code or Jupyter notebooks
-> - Any datasets, documentation, or reports relevant to the coursework
 
 ---
