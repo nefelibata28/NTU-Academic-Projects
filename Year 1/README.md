@@ -1,4 +1,4 @@
-# Year 1 Academic Projects – NTU
+# Year 1 Academic Projects 
 
 This repository contains projects, assignments, and practice exercises completed during **Year 1** of my studies at Nanyang Technological University (NTU).  
 It includes projects from two modules:
