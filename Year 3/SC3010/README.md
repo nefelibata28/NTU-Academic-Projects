@@ -12,5 +12,5 @@ We(group) were tasked to select two **real-world security breach** and write a d
 ---
 
 ## Files
-- [Case studies Presentation Slides](https://entuedu-my.sharepoint.com/:b:/g/personal/nancy001_e_ntu_edu_sg/EUAWTPCb6g1HlQ78O592nn8B3fVbVFLaf1l__qOn6RCbuA?e=OaaNvg)
+- [Case Studies Presentation Slides](https://entuedu-my.sharepoint.com/:b:/g/personal/nancy001_e_ntu_edu_sg/EUAWTPCb6g1HlQ78O592nn8B3fVbVFLaf1l__qOn6RCbuA?e=OaaNvg)
 - [Presentation video](https://entuedu-my.sharepoint.com/:v:/g/personal/nancy001_e_ntu_edu_sg/ERLbplAHPnFLiWKkNNFtWZABjhw66u4pjfjSqDcbw22Nhg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=M6zi86)
