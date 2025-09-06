@@ -43,13 +43,13 @@ It includes projects from two modules:
 - [View Notebooks](https://github.com/nefelibata28/NTU-Academic-Projects/tree/main/Year%201/SC1015/SC1015%20Lecture%20Exercises)
 
 ### Tutorials
--This folder contains a collection of tutorial problems, and their solutions for the SC1015 course.
+- This folder contains a collection of tutorial problems, and their solutions for the SC1015 course.
 - [View Notebooks](https://github.com/nefelibata28/NTU-Academic-Projects/tree/main/Year%201/SC1015/SC1015%20Tutorial%20Exercise)
-- 
+  
 ### Project
--This project uses unsupervised learning to uncover hidden patterns in the [Kaggle Steam dataset](https://www.kaggle.com/datasets/nikdavis/steam-store-games).
-=My part focused on DBSCAN.
--{View Project](https://github.com/nefelibata28/NTU-Academic-Projects/tree/main/Year%201/SC1015/Project).
+- This project uses unsupervised learning to uncover hidden patterns in the [Kaggle Steam dataset](https://www.kaggle.com/datasets/nikdavis/steam-store-games).
+- My part focused on DBSCAN.
+- [View Project](https://github.com/nefelibata28/NTU-Academic-Projects/tree/main/Year%201/SC1015/Project).
 ---
 
 ## ⚙️ Technical Details
