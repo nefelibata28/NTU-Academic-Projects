@@ -38,9 +38,7 @@ This project applies unsupervised learning (DBSCAN, K-Means, etc.) to analyze th
 - Identify player trends
 - Discover player subgroups
 - Understand game popularity factors
-
-🔗 [View full project on GitHub](https://github.com/nefelibata28/usg)
-
+- 
 >  My contribution focused on DBSCAN.
 
 
@@ -54,7 +52,7 @@ This project applies unsupervised learning (DBSCAN, K-Means, etc.) to analyze th
 
 ---
 
-## 📝 Notes
+##  Notes
 
 - All materials were completed as part of NTU coursework.
 - This repository is for academic reference only. Please do not plagiarize.
