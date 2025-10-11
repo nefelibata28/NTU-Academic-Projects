@@ -6,11 +6,11 @@ This repository contains my academic coursework and projects from **Year 1 throu
 
 ## 📚 Contents
 
-### 🧩 Year 1
+### Year 1
 - **SC1003** – Introduction to Computational Thinking & Programming
 - **SC1015** – Introduction to Data Science & Artificial Intelligence
 
-### 🧩 Year 2
+### Year 2
 - **SC1007** – Data Structures & Algorithms
 - **SC2001** – Algorithm Design & Analysis
 - **SC2002** – Object-Oriented Design & Programming
@@ -18,14 +18,14 @@ This repository contains my academic coursework and projects from **Year 1 throu
 - **SC2008** – Computer Networks
 - **SC2207** – Introduction to Databases
 
-### 🧩 Year 3
+### Year 3
 - **SC2079** – Multidisciplinary Design Project
 - **SC3000** – Artificial Intelligence
 - **SC3010** – Computing Security
 - **SC4000** – Machine Learning
 - **SC4020** – Data Analytics and Mining
 
-### 🧩 Year 4
+### Year 4
 - **SC3020** – Database System Principles
 - **SC3061** – Human Computer Interaction
 - **SC4024** – Data Visualisation
