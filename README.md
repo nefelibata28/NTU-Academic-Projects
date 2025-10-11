@@ -25,6 +25,11 @@ This repository contains my academic coursework and projects from **Year 1 throu
 - **SC4000** – Machine Learning
 - **SC4020** – Data Analytics and Mining
 
+### 🧩 Year 4
+- **SC3020** – Database System Principles
+- **SC3061** – Human Computer Interaction
+- **SC4024** – Data Visualisation
+
 ---
 
 ## 🔗 Quick Access
@@ -32,6 +37,7 @@ This repository contains my academic coursework and projects from **Year 1 throu
 - [📁 Year 1](./Year%201/)
 - [📁 Year 2](./Year%202/)
 - [📁 Year 3](./Year%203/)
+- [📁 Year 4](./Year%204/)
 
 > Each folder contains:
 > - A detailed `README.md` describing the project
@@ -47,6 +53,7 @@ This repository contains my academic coursework and projects from **Year 1 throu
 | **Year 1** | [SC1003](./Year%201/SC1003) – *Introduction to Computational Thinking and Programming*                 | [SC1015](./Year%201/SC1015) – *Introduction to Data Science and Artificial Intelligence*              |
 | **Year 2** | [SC1007](./Year%202/SC1007_Labs) – *Data Structures and Algorithms* <br> [SC2002](./Year%202/Sc2002) – *Object-Oriented Design and Programming* | [SC2001](./Year%202/SC2001) – *Algorithm Design and Analysis* <br> [SC2006](https://github.com/PHY041/TeamNPTY) – *Software Engineering* <br> [SC2008](./Year%202/SC2008) – *Computer Networks* <br> [SC2207](./Year%202/SC2207) – *Introduction to Databases* |
 | **Year 3** | [SC3000](./Year%203/SC3000%20Lab) – *Artificial Intelligence* <br> [SC3010](./Year%203/SC3010) – *Computing Security* <br> [SC4000](./Year%203/SC4000_Project) – *Machine Learning* <br> [SC4020](./Year%203/SC4020) – *Data Analytics and Mining* <br> [SC2079](https://github.com/Adhvait2000/MDP_group39) – *Multidisciplinary Design Project* | *Credit-bearing Internship* |
+| **Year 3** | [SC3020](./Year%204/SC3020) – *Database System Principles* <br> [SC3061](./Year%204/SC3061) – *Human Computer Interaction* <br> [SC4024](./Year%204/SC4024) – *Data Visualisation* <br> [SC4079] – *Final Year Project* | *To be updated* |
 
 
 
