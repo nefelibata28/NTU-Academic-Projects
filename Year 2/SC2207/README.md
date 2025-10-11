@@ -1,5 +1,7 @@
-# SC2207_-Introduction-to-Databases
-This folder contains the group-based project fro **SC2207**.
+# SC2207 - Introduction to Databases
+
+ This folder contains the group-based project for **SC2207**.
+ 
 ---
 
 ## Project
