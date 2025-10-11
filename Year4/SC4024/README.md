@@ -10,8 +10,7 @@ This folder contains project materials and assignment submissions for the module
 
 ### 📂 Project: Putting Skills and Knowledge into Creative Practice
 
-- **Objective:**  
-  > Investigate, explore, design, and develop appropriate data visualisations to uncover and share hidden insights from a dataset of your choice.
+  > Objective: Investigate, explore, design, and develop appropriate data visualisations to uncover and share hidden insights from a dataset of your choice.
  
   - **Presentation Video**  *to be updated*
       
@@ -20,9 +19,7 @@ This folder contains project materials and assignment submissions for the module
 ---
 
 ### 📝 Assignment: Critique the Presentations
-
-- **Objective:**  
-  > To develop a critical and constructive eye by evaluating two random peers’ data visualisation projects.
+  > Objective: To develop a critical and constructive eye by evaluating two random peers’ data visualisation projects.
 
 - **Report 1** *to be updated*
   
@@ -35,6 +32,7 @@ This folder contains project materials and assignment submissions for the module
 - All assignments are submitted as part of NTU's official coursework.
 - Files may include assignment descriptions.
 - Please do not plagiarize. This repository is for learning and reference purposes only.
+
 
 
 
