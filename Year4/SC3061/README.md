@@ -15,8 +15,8 @@ Overview
 This folder includes the following *Individual* assignments:
 
 1. **Assignment 1** - Low Fidelity Prototype  
-   [Assignment 1 Instructions](./Assignment2_HiFi/Description.md)
- [Low-Fidelity Prototype](./Assignment2_HiFi/Submission/)
+    >[Assignment 1 Instructions](./Assignment2_HiFi/Description.md)
+    >[Low-Fidelity Prototype](./Assignment2_HiFi/Submission/)
 
 2. **Assignment 2** - Usability Evaluation  
    > 
@@ -31,4 +31,5 @@ This folder includes the following *Individual* assignments:
 - Please do not plagiarize; this repository is for learning/reference only.
 
 ---
+
 
