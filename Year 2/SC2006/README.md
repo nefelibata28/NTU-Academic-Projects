@@ -6,7 +6,7 @@ This folder contains deliverables of the group based project for **SC2006**.
 ## [Project - Compass ](https://github.com/PHY041/TeamNPTY) 
 - [Project Instructions](https://entuedu-my.sharepoint.com/:b:/g/personal/nancy001_e_ntu_edu_sg/EbH4cjn6-RZFhwgaGPGzmVUBaEWKHHyjlQAOK20jxgI2OA?e=1MQNvs)
 - Deliverables
- - [Requirement specification document](https://docs.google.com/document/d/1qCAZkn7MTElVfIyoy7iHmxLoT77dD5RRysa-blGyMuc/edit?usp=sharing)
+  - [Requirement specification document](https://docs.google.com/document/d/1qCAZkn7MTElVfIyoy7iHmxLoT77dD5RRysa-blGyMuc/edit?usp=sharing)
 - - [Use Case Description](https://docs.google.com/document/d/1SdixtuQGJJN1Q5JH5GF0dB3X6j5pb23ZHpiUggF2LcU/edit?usp=sharing)
 - - [Use case diagram and Description](https://docs.google.com/document/d/1msYPDcpc6A2brEpNIcNPsI9qmeCRhTcEXo_9FfY4j7U/edit?usp=sharing)
 - - [Diagrams](https://drive.google.com/drive/folders/1x5EJCBcYEeKRP7dm3qNrIx8xtdTyFdsL?usp=sharing)
@@ -23,4 +23,5 @@ This folder contains deliverables of the group based project for **SC2006**.
 - All work was submitted as part of NTU coursework.
 - This repository is for academic reference and learning purposes only.
 - Please do not plagiarize.
+
 
