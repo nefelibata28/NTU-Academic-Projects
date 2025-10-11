@@ -38,7 +38,7 @@ This project applies unsupervised learning (DBSCAN, K-Means, etc.) to analyze th
 - Identify player trends
 - Discover player subgroups
 - Understand game popularity factors
-- 
+
 >  My contribution focused on DBSCAN.
 
 
