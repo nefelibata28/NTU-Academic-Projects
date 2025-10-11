@@ -13,17 +13,19 @@
 - [UML Diagram](https://entuedu-my.sharepoint.com/:b:/g/personal/nancy001_e_ntu_edu_sg/EfYQFoF_RGVLsjQf-gUQYw4BR5RWeiJaW3jzHg1i5bXObw?e=myBxLk)
 - [Source Code](https://github.com/nefelibata28/NTU-Academic-Projects/tree/main/Year%202/Sc2002/SC2022%20assignment)
 
----
+
 
 ## Technical Stack
 
 - **Languages:** Java  
 - **IDE:** Eclipse, VS Code
 
----
+
 
 ## Notes
 
 - All work was submitted as part of NTU coursework.
 - This repository is for academic reference and learning purposes only.
 - Please do not plagiarize.
+
+---
