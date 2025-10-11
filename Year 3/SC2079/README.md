@@ -1,5 +1,6 @@
-# SC2079 – Multidisciplinary Design Project
+# SC2079 – Multidisciplinary Design Project (MDP)
 
+## MDP Group39 AY24/25 
 This is a **group project-based module** focused on designing and building a robotic system through a multidisciplinary engineering approach. The project combines hardware and software development, system integration, and team collaboration.
 
 ---
@@ -22,4 +23,5 @@ This group project involves building a robotic system that can:
 - All assignments are submitted as part of NTU's official coursework.
 - Files may include assignment descriptions.
 - Please do not plagiarize; this repository is for learning/reference only.
+
 
