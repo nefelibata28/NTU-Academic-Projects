@@ -2,17 +2,17 @@
 
 This folder contains assignments for the module **SC3061**.
 
-## 📚 Module Overview
+## Module Overview
 
 SC3061 focuses on the design, evaluation, and implementation of interactive computing systems for human use, along with the study of the major phenomena surrounding them.
 
-## 📂 Assignments
+## Assignments
 Overview
 
 - **Assignment Description:** The instructions and requirements provided for each assignment.  
 - **Submission:** The completed work for the assignment (e.g., prototypes, reports).
 
-This folder includes the following *Individual* assignments:
+The following are the assignments for this module. All assignments are *individual-based*:
 
 1. **Assignment 1** - Low Fidelity Prototype
     > Assignment 1 focuses on designing a low-fidelity prototype for public kiosks at an amusement park to help visitors plan their activities.
@@ -29,13 +29,14 @@ This folder includes the following *Individual* assignments:
     - [Assignment 3 Instructions](https://entuedu-my.sharepoint.com/:b:/g/personal/nancy001_e_ntu_edu_sg/EcEY3-0ey7VFvH_yN_QvwYMBLAckhzp3iPhDHR3WtLQNcA?e=NSZKQ6)
     - [High-Fidelity Prototype]() *(to be updated)*
    
-## 📝 Notes
+## Notes
 
 - All assignments are submitted as part of NTU's official coursework.
 - Files may include assignment descriptions.
 - Please do not plagiarize; this repository is for learning/reference only.
 
 ---
+
 
 
 
