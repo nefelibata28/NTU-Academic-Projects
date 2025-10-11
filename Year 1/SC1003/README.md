@@ -12,7 +12,7 @@ SC1003 teaches fundamental programming concepts using C and Python, focusing on 
 
 ##  Assignments
 
-###  [Assignment 1 – Flight Seating Reservation System](https://github.com/nefelibata28/NTU-Academic-Projects/blob/main/Year%201/SC1003/SC1003_%20Assign1_Flight%20Reservation%20System/final_flightreservationsystem.c)
+###  [Assignment 1 – Flight Seating Reservation System (C)](https://github.com/nefelibata28/NTU-Academic-Projects/tree/main/Year%201/SC1003/SC1003_%20Assign1_Flight%20Reservation%20System)
 
 > A console-based flight seating reservation system for Airlines. The system handles seat assignment, cancellation, and displays reserved seats, reinforcing core C programming concepts.
 
@@ -28,7 +28,7 @@ SC1003 teaches fundamental programming concepts using C and Python, focusing on 
 -  IDE: Eclipse CDT
 ---
 
-###  Assignment 2 – MACD Trend Reversal Trading System (Python)
+###  [Assignment 2 – MACD Trend Reversal Trading System (Python)](https://github.com/nefelibata28/NTU-Academic-Projects/tree/main/Year%201/SC1003/SC1003_Bhati%20Nancy_assign2)
 
 > This project implements a trading strategy using the MACD indicator, allowing for dataset selection, signal generation, and performance comparison between benchmark and strategy returns.
 
