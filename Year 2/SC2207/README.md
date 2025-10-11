@@ -1,0 +1,31 @@
+# SC2207_-Introduction-to-Databases
+This folder contains the group-based project fro **SC2207**.
+---
+
+## Project
+- [Project Instructions](https://entuedu-my.sharepoint.com/:b:/g/personal/nancy001_e_ntu_edu_sg/ERk8ilJF3tlFsrDKfpHyToAByH5D0Q-sT45LvbYeazHKGQ?e=68Xe2P)
+### Objectives: 
+- Construct an entity-relationship model at a conceptual level. 
+- Map the model into a schema of a relational DBMS. 
+- Implement the given schema on a relational DBMS. 
+- Use a database language (SQL) to retrieval data from a relational DBMS.
+  
+### Deliverables:
+1. [Lab 1 & 2 - ER Diagram](https://entuedu-my.sharepoint.com/:b:/g/personal/nancy001_e_ntu_edu_sg/EZanOYMsg5hNg1RPEfw8exMBi51yBHWyaNPsY658l45veQ?e=uPnCq0)
+2. [Lab 3 - Generation of Normalized Database Schema](https://entuedu-my.sharepoint.com/:w:/g/personal/nancy001_e_ntu_edu_sg/EXUkriLikZhAmA-awXyWkn4BtAYTgaJU75zf_yvNrNLoGQ?e=0E96Aq)
+3. [Lab 4 & 5 - SQL Queries](https://entuedu-my.sharepoint.com/:b:/g/personal/nancy001_e_ntu_edu_sg/EQrqmV0E5mZEv8md9QGY8uEBiHjR3AF0x4T7Nag6_FY2jQ?e=L6c5jp)
+4. [Project videos](https://entuedu-my.sharepoint.com/:u:/g/personal/nancy001_e_ntu_edu_sg/EUa07FCo8tdGmbnJbjoZWOcBtE3tciSeQEc95fUD1lr3Og?e=nTaBEP)
+---
+
+## 💻 Technical Stack
+
+- **Languages:** MySQL  
+- **Software:** MS SQL Server
+
+---
+
+## 📝 Notes
+
+- All work was submitted as part of NTU coursework.
+- This repository is for academic reference and learning purposes only.
+- Please do not plagiarize.
