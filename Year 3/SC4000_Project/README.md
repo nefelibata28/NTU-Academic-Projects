@@ -5,10 +5,6 @@ This folder contains project for **SC4000**.
 ---
 
 ## Project
-
-> 
-
-1. **Assignment 1- Reinforcement Learning Assignment**
    > As part of the SC4000 Machine Learning course, our team worked on the ELO Merchant Category Recommendation challenge from Kaggle.
 
 - [Kaggle Competition- Elo Merchant Category Recommendation ](https://www.kaggle.com/competitions/elo-merchant-category-recommendation)
