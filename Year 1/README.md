@@ -4,11 +4,11 @@ This repository contains projects, assignments, and practice exercises completed
 It includes projects from two modules:
 
 - **SC1003 – Introduction to Computational Thinking & Programming**
-- **SC1015 – Introduction to Data Science and Artificial Intelligence **
+- **SC1015 – Introduction to Data Science and Artificial Intelligence**
 
 ---
 
-## 🖥️ SC1003 – Introduction to Computational Thinking & Programming
+## SC1003 – Introduction to Computational Thinking & Programming
 ### Assignment 1: Flight Seating Reservation System
 - Console-based program to manage seat reservations for a small airline (5 seats).  
 - Features:
@@ -32,7 +32,7 @@ It includes projects from two modules:
 
 ---
 
-## 📊 SC1015 – Introduction to Data Science and AI
+##  SC1015 – Introduction to Data Science and AI
 ### Lecture Exercises
 - A collection of Jupyter notebooks containing **practice problems and wexercises** from lectures.  
 - Topics covered:
