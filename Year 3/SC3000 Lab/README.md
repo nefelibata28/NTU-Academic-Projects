@@ -16,7 +16,7 @@ The following are the assignments for this module. All projects are individual-b
 - [Asdignmeet Full code](https://github.com/nefelibata28/NTU-Academic-Projects/blob/main/Year%203/SC3000%20Lab/Assignment%201/SC3000_Code_Bhati%20Nancy.ipynb)
 
 2. **Assignment 2- Prolog**
-   > This project requires to solve three problems using Prolog. 
+   > This project implements a logical model of the British royal family and its line of succession using Prolog, a declarative logic programming language.
 - [Assignment Report](https://entuedu-my.sharepoint.com/:w:/g/personal/nancy001_e_ntu_edu_sg/EVsojKcogyBOurn2jccLNn4BMMr3hE8vAVwzg7DJ5m5PHQ?e=zNarPh)
 - [Assignment Question 1 Code](https://github.com/nefelibata28/NTU-Academic-Projects/blob/main/Year%203/SC3000%20Lab/Assignment2_BHATI%20NANCY/BHATI%20NANCY_qn_1_2_.pl.pl)
 - [Assignment Question 2 Code](https://github.com/nefelibata28/NTU-Academic-Projects/blob/main/Year%203/SC3000%20Lab/Assignment2_BHATI%20NANCY/BHATI%20NANCY_QN_2_1.pl.pl)
