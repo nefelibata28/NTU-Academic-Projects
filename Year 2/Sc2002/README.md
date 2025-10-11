@@ -2,10 +2,10 @@
 
  This folder contains coursework for **SC2002**.
  
----
+
 ## Labs
--[Lab Manual](https://entuedu-my.sharepoint.com/:b:/g/personal/nancy001_e_ntu_edu_sg/EShlxfZRaCFKiJmsXMBUZdkBuM8u8wE03K0d6mZ_TnZzJA?e=yZvUYg)
--[Lab Solutions](https://github.com/nefelibata28/NTU-Academic-Projects/tree/main/Year%202/Sc2002/SC2002_Lab%20assignments)
+- [Lab Manual](https://entuedu-my.sharepoint.com/:b:/g/personal/nancy001_e_ntu_edu_sg/EShlxfZRaCFKiJmsXMBUZdkBuM8u8wE03K0d6mZ_TnZzJA?e=yZvUYg)
+- [Lab Solutions](https://github.com/nefelibata28/NTU-Academic-Projects/tree/main/Year%202/Sc2002/SC2002_Lab%20assignments)
 
 ## Project
 - [Project Instructions](https://entuedu-my.sharepoint.com/:b:/g/personal/nancy001_e_ntu_edu_sg/Edt5NdW7NuNApv2_B_NNW50BxStwXFpJqYsCQc4ZQ7CHdg?e=x5xzaG)
