@@ -37,7 +37,7 @@ This repository contains my academic coursework and projects from **Year 1 throu
 - [📁 Year 1](./Year%201/)
 - [📁 Year 2](./Year%202/)
 - [📁 Year 3](./Year%203/)
-- [📁 Year 4](./Year%204/)
+- [📁 Year 4](.https://github.com/nefelibata28/NTU-Academic-Projects/tree/main/Year4)
 
 > Each folder contains:
 > - A detailed `README.md` describing the project
