@@ -2,7 +2,7 @@
 
 This repository contains materials for SC1015, including lecture exercises, tutorial problems with solutions, and a group project.
 
----
+
 
 ##  [Lecture Exercises](https://github.com/nefelibata28/NTU-Academic-Projects/tree/main/Year%201/SC1015/SC1015%20Lecture%20Exercises)
 
@@ -16,7 +16,7 @@ A collection of Jupyter notebooks containing practice problems and exercises dis
 
 >  View notebooks in the `Lecture Exercises` folder.
 
----
+
 
 ##  [Tutorial Problems & Solutions](https://github.com/nefelibata28/NTU-Academic-Projects/tree/main/Year%201/SC1015/SC1015%20Tutorial%20Exercise)
 
@@ -28,7 +28,7 @@ This section includes tutorial questions and solutions implemented in Jupyter no
 
 > View notebooks in the `Tutorials` folder.
 
----
+
 
 ##  [Group Project – Steam Games Clustering](https://github.com/nefelibata28/NTU-Academic-Projects/tree/main/Year%201/SC1015/Project)
 
@@ -43,7 +43,7 @@ This project applies unsupervised learning (DBSCAN, K-Means, etc.) to analyze th
 
 >  My contribution focused on DBSCAN.
 
----
+
 
 ##  Technical Details
 
