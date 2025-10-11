@@ -4,7 +4,7 @@ This repository contains materials for SC1015, including lecture exercises, tuto
 
 ---
 
-##  Lecture Exercises
+##  [Lecture Exercises](https://github.com/nefelibata28/NTU-Academic-Projects/tree/main/Year%201/SC1015/SC1015%20Lecture%20Exercises)
 
 A collection of Jupyter notebooks containing practice problems and exercises discussed in lectures.
 
@@ -18,7 +18,7 @@ A collection of Jupyter notebooks containing practice problems and exercises dis
 
 ---
 
-##  Tutorial Problems & Solutions
+##  [Tutorial Problems & Solutions](https://github.com/nefelibata28/NTU-Academic-Projects/tree/main/Year%201/SC1015/SC1015%20Tutorial%20Exercise)
 
 This section includes tutorial questions and solutions implemented in Jupyter notebooks.
 
@@ -30,7 +30,7 @@ This section includes tutorial questions and solutions implemented in Jupyter no
 
 ---
 
-##  Group Project – Steam Games Clustering
+##  [Group Project – Steam Games Clustering](https://github.com/nefelibata28/NTU-Academic-Projects/tree/main/Year%201/SC1015/Project)
 
 This project applies unsupervised learning (DBSCAN, K-Means, etc.) to analyze the Kaggle Steam dataset and identify patterns in player behavior.
 
