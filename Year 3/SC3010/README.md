@@ -5,6 +5,8 @@ This folder contains the case-study project for the module **SC3010**.
 ## Module Overview
 SC3010 covers system vulnerabilities, core security mechanisms, and techniques for enforcing security policies in modern computing environments.
 
+---
+
 ## Project 
 This group project was completed as part of the **SC3010 – Computing Security** module. We were tasked with selecting two **real-world security breaches** and producing a case study that analyzed:
 - The nature and timeline of the breach  
