@@ -14,15 +14,18 @@ Overview
 
 This folder includes the following *Individual* assignments:
 
-1. **Assignment 1** - Low Fidelity Prototype  
+1. **Assignment 1** - Low Fidelity Prototype
+    > Assignment 1 focuses on designing a low-fidelity prototype for public kiosks at an amusement park to help visitors plan their activities.
     - [Assignment 1 Instructions](./Assignment2_HiFi/Description.md)
     - [Low-Fidelity Prototype](./Assignment2_HiFi/Submission/)
 
-2. **Assignment 2** - Usability Evaluation  
+3. **Assignment 2** - Usability Evaluation
+   > Assignment 2 involves conducting a usability evaluation of another student’s interactive design based on their prototype.
     - [Assignment 2 Instructions](./Assignment2_HiFi/Description.md)
     - [Usability Evaluation](./Assignment2_HiFi/Submission/)
 
-3. **Assignment 3** - High Fidelity Prototype    
+5. **Assignment 3** - High Fidelity Prototype
+   >   Assignment 3 requires creating a high-fidelity prototype of Assignment 1 using Microsoft PowerPoint. 
     - [Assignment 3 Instructions]()
     - [High-Fidelity Prototype]()
    
@@ -33,6 +36,7 @@ This folder includes the following *Individual* assignments:
 - Please do not plagiarize; this repository is for learning/reference only.
 
 ---
+
 
 
 
