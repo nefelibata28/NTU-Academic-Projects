@@ -1,13 +1,16 @@
 
-# SC3010-  Computing Security – Case Study Project
+# SC3010 - Computing Security 
+This folder contains the case-study project for the module **SC3010**.
 
-## Overview
-This project was completed as part of the **Computing Security module**.  
-We(group) were tasked to select two **real-world security breach** and write a detailed case study analyzing:
-- What happened during the breach
-- Why the security system failed
-- The consequences of the incident
-- Key lessons learned and recommendations
+##Module Overview
+SC3010 covers system vulnerabilities, core security mechanisms, and techniques for enforcing security policies in modern computing environments.
+
+## Project Overview
+This group project was completed as part of the **SC3010 – Computing Security** module. We were tasked with selecting two **real-world security breaches** and producing a case study that analyzed:
+- The nature and timeline of the breach  
+- Vulnerabilities or failures that led to the incident  
+- The impact and consequences of the breach  
+- Lessons learned and recommended preventive measures  
 
 ---
 
