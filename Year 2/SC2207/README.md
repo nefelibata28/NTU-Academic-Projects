@@ -19,14 +19,14 @@
 4. [Project videos](https://entuedu-my.sharepoint.com/:u:/g/personal/nancy001_e_ntu_edu_sg/EUa07FCo8tdGmbnJbjoZWOcBtE3tciSeQEc95fUD1lr3Og?e=nTaBEP)
 ---
 
-## 💻 Technical Stack
+## Technical Stack
 
 - **Languages:** MySQL  
 - **Software:** MS SQL Server
 
 ---
 
-## 📝 Notes
+## Notes
 
 - All work was submitted as part of NTU coursework.
 - This repository is for academic reference and learning purposes only.
