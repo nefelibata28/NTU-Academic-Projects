@@ -24,12 +24,9 @@ The following are the projects for this module. All projects are *group-based*:
 
 ---
 
-### Project 2 *To be updated*
-> *to be updated*
+### Project 2 *-To be updated*
 
--  [Project Presentation Video](#) *(Add your video link here)*
--  [Report](#) *(Add your report file or link)*
--  [Code]() *(Code files in this folder)*
+
 
 ---
 
@@ -38,6 +35,7 @@ The following are the projects for this module. All projects are *group-based*:
 - All assignments are submitted as part of NTU's official coursework.
 - Files may include assignment descriptions.
 - Please do not plagiarize; this repository is for learning/reference only.
+
 
 
 
