@@ -1,6 +1,6 @@
-# SC3020 – Database Systems Principles
+# SC3020 – Database System Principles
 
-This folder includes two major projects for the module **CS3030 – Database Systems Principles**,  with implementation code, demo videos, and written reports.
+This folder includes two major projects for the module **SC3020 – Database System Principles**,  with implementation code, demo videos, and written reports.
 
 ---
 
@@ -38,5 +38,6 @@ The following are the projects for this module. All projects are *group-based*:
 - All assignments are submitted as part of NTU's official coursework.
 - Files may include assignment descriptions.
 - Please do not plagiarize; this repository is for learning/reference only.
+
 
 
