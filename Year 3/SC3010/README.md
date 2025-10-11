@@ -2,7 +2,7 @@
 # SC3010 - Computing Security 
 This folder contains the case-study project for the module **SC3010**.
 
-##Module Overview
+## Module Overview
 SC3010 covers system vulnerabilities, core security mechanisms, and techniques for enforcing security policies in modern computing environments.
 
 ## Project 
