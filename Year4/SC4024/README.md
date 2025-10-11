@@ -4,7 +4,7 @@ This folder contains project materials and assignment submissions for the module
 
 ## 📚 Module Overview
 
-> SC4024 explores data visualisation as a form of creative and critical practice. Students learn to investigate, design, and communicate data-driven insights using appropriate visualisation techniques.
+  SC4024 explores data visualisation as a form of creative and critical practice. Students learn to investigate, design, and communicate data-driven insights using   appropriate visualisation techniques.
 ---
 
 ## 📂 Project: Putting Skills and Knowledge into Creative Practice
@@ -21,7 +21,7 @@ This folder contains project materials and assignment submissions for the module
 ## 📝 Assignment: Critique the Presentations
 
 - **Objective:**  
- > To develop a critical and constructive eye by evaluating two random peers’ data visualisation projects.
+  > To develop a critical and constructive eye by evaluating two random peers’ data visualisation projects.
 
 - **Report 1** *to be updated*
   
@@ -34,5 +34,6 @@ This folder contains project materials and assignment submissions for the module
 - All assignments are submitted as part of NTU's official coursework.
 - Files may include assignment descriptions.
 - Please do not plagiarize. This repository is for learning and reference purposes only.
+
 
 
