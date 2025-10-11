@@ -52,7 +52,7 @@ It includes projects from two modules:
 - [View Project](https://github.com/nefelibata28/NTU-Academic-Projects/tree/main/Year%201/SC1015/Project).
 ---
 
-## ⚙️ Technical Details
+## Technical Details
 - **Languages:** C, Python  
 - **Tools & IDEs:** Eclipse CDT (for C), Jupyter Notebook / VS Code (for Python)  
 - **Libraries Used (Python):** `pandas`, `numpy`, `matplotlib`, `seaborn`, `datetime`  
