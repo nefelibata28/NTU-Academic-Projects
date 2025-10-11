@@ -7,7 +7,7 @@ This folder contains project for **SC4020**.
 
 The following are the two group based projects for **SC4020**.
     
-1. ## [Project 1](https://github.com/nefelibata28/NTU-Academic-Projects/tree/main/Year%203/SC4020/Project%201)
+ ## 1. [Project 1](https://github.com/nefelibata28/NTU-Academic-Projects/tree/main/Year%203/SC4020/Project%201)
 This project involved selecting multiple datasets and applying data preprocessing, clustering, and classification techniques. Algorithms such as K-Means, DBSCAN, Bayes Nets were implemented to explore grouping patterns and predictive performance. The effectiveness of each method was compared using appropriate evaluation metrics to assess their strengths across different types of dat
 - Datasets
 - - [Dataset 1 - NBA Shots](https://www.kaggle.com/datasets/mexwell/nba-shots) | [Source Code](https://github.com/nefelibata28/NTU-Academic-Projects/tree/main/Year%203/SC4020/Project%201/Dataset1)
@@ -16,7 +16,7 @@ This project involved selecting multiple datasets and applying data preprocessin
 - [Project Report](https://entuedu-my.sharepoint.com/:b:/g/personal/nancy001_e_ntu_edu_sg/EX3pKPgoCxZAlY-kvINsf5sBuFJ9P_xGbszHqs6mgrlQ_A?e=1ZB6pw)
 
 
-2. ## [Project 2](https://github.com/nefelibata28/NTU-Academic-Projects/tree/main/Year%203/SC4020/Project%202)
+ ## 2.  [Project 2](https://github.com/nefelibata28/NTU-Academic-Projects/tree/main/Year%203/SC4020/Project%202)
 
 This project involves a dataset comprising human mobility data from four metropolitan areas of Japan. Three tasks are required to be performed mentioned in 'Project Overview'.
 - [Project Overview](https://entuedu-my.sharepoint.com/:b:/g/personal/nancy001_e_ntu_edu_sg/EeIkSZBAitZHtGQRw1ZO_7EBvp63lQ228ZpbycAaYvyxWQ?e=WAecbK)
