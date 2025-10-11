@@ -26,14 +26,14 @@ The following are the assignments for this module. All projects are individual-b
 
 ---
 
-## 💻 Technical Stack
+##  Technical Stack
 
 - **Languages:** Python, Prolog   
 - **IDE:** VS Code, Jupyter Notebook, SWISH
 
 ---
 
-## 📝 Notes
+## Notes
 
 - All work was submitted as part of NTU coursework.
 - This repository is for academic reference and learning purposes only.
