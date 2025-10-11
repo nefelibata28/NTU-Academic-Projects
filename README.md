@@ -1,10 +1,10 @@
-# 🎓 NTU Academic Projects
+# NTU Academic Projects 🎓
 
 This repository contains my academic coursework and projects from **Year 1 through Year 3** at **Nanyang Technological University (NTU)**. Projects span various computing modules, including Artificial Intelligence, Software Engineering, Machine Learning, and more.
 
 ---
 
-## 📚 Contents
+##  Contents
 
 ### Year 1
 - **SC1003** – Introduction to Computational Thinking & Programming
@@ -32,7 +32,7 @@ This repository contains my academic coursework and projects from **Year 1 throu
 
 ---
 
-## 🔗 Quick Access
+##  Quick Access
 
 - [📁 Year 1](./Year%201/)
 - [📁 Year 2](./Year%202/)
@@ -46,14 +46,14 @@ This repository contains my academic coursework and projects from **Year 1 throu
 
 ---
 
-## 📊 Project Breakdown by Year & Semester
+##  Project Breakdown by Year & Semester
 
 | **Year**   | **Semester 1**                                                                                         | **Semester 2**                                                                                         |
 |------------|--------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------|
 | **Year 1** | [SC1003](./Year%201/SC1003) – *Introduction to Computational Thinking and Programming*                 | [SC1015](./Year%201/SC1015) – *Introduction to Data Science and Artificial Intelligence*              |
 | **Year 2** | [SC1007](./Year%202/SC1007_Labs) – *Data Structures and Algorithms* <br> [SC2002](./Year%202/Sc2002) – *Object-Oriented Design and Programming* | [SC2001](./Year%202/SC2001) – *Algorithm Design and Analysis* <br> [SC2006](https://github.com/PHY041/TeamNPTY) – *Software Engineering* <br> [SC2008](./Year%202/SC2008) – *Computer Networks* <br> [SC2207](./Year%202/SC2207) – *Introduction to Databases* |
 | **Year 3** | [SC3000](./Year%203/SC3000%20Lab) – *Artificial Intelligence* <br> [SC3010](./Year%203/SC3010) – *Computing Security* <br> [SC4000](./Year%203/SC4000_Project) – *Machine Learning* <br> [SC4020](./Year%203/SC4020) – *Data Analytics and Mining* <br> [SC2079](https://github.com/nefelibata28/NTU-Academic-Projects/tree/main/Year%203/SC2079) – *Multidisciplinary Design Project* | *Credit-bearing Internship* |
-| **Year 3** | [SC3020](https://github.com/nefelibata28/NTU-Academic-Projects/tree/main/Year4/SC3020) – *Database System Principles* <br> [SC3061](https://github.com/nefelibata28/NTU-Academic-Projects/tree/main/Year4/SC3061) – *Human Computer Interaction* <br> [SC4024](https://github.com/nefelibata28/NTU-Academic-Projects/tree/main/Year4/SC4024) – *Data Visualisation* <br> [SC4079] – *Final Year Project* | *To be updated* |
+| **Year 4** | [SC3020](https://github.com/nefelibata28/NTU-Academic-Projects/tree/main/Year4/SC3020) – *Database System Principles* <br> [SC3061](https://github.com/nefelibata28/NTU-Academic-Projects/tree/main/Year4/SC3061) – *Human Computer Interaction* <br> [SC4024](https://github.com/nefelibata28/NTU-Academic-Projects/tree/main/Year4/SC4024) – *Data Visualisation* <br> [SC4079] – *Final Year Project* | *To be updated* |
 
 
 
