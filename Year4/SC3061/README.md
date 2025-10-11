@@ -27,7 +27,7 @@ This folder includes the following *Individual* assignments:
 5. **Assignment 3** - High Fidelity Prototype
    >   Assignment 3 requires creating a high-fidelity prototype of Assignment 1 using Microsoft PowerPoint. 
     - [Assignment 3 Instructions](https://entuedu-my.sharepoint.com/:b:/g/personal/nancy001_e_ntu_edu_sg/EcEY3-0ey7VFvH_yN_QvwYMBLAckhzp3iPhDHR3WtLQNcA?e=NSZKQ6)
-    - [High-Fidelity Prototype]()*to be updated*
+    - [High-Fidelity Prototype]() *(to be updated)*
    
 ## 📝 Notes
 
@@ -36,6 +36,7 @@ This folder includes the following *Individual* assignments:
 - Please do not plagiarize; this repository is for learning/reference only.
 
 ---
+
 
 
 
