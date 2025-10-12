@@ -14,14 +14,14 @@ This folder contains project for **SC4000**.
 
 ---
 
-## 💻 Technical Stack
+## Technical Stack
 
 - **Languages:** Python
 - **IDE:** VS Code, Jupyter Notebook
 
 ---
 
-## 📝 Notes
+## Notes
 
 - All work was submitted as part of NTU coursework.
 - This repository is for academic reference and learning purposes only.
