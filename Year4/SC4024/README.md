@@ -11,9 +11,9 @@ This folder contains project materials and assignment submissions for the module
 ### Project: Putting Skills and Knowledge into Creative Practice
 
   > Objective: An individual based project focused on investigating, exploring, designing, and developing appropriate data visualisations to uncover and share hidden insights from a dataset of your choice.
-  - **Project Overview**[https://entuedu-my.sharepoint.com/:b:/g/personal/nancy001_e_ntu_edu_sg/Ed0LUJ26K0tMt7G1sFkDQJQB0vrpxbyUgvO7cSXbHygktA?e=HRPNNE]
+  - **[Project Overview](https://entuedu-my.sharepoint.com/:b:/g/personal/nancy001_e_ntu_edu_sg/Ed0LUJ26K0tMt7G1sFkDQJQB0vrpxbyUgvO7cSXbHygktA?e=HRPNNE)**
  
-  - **Presentation Video**[https://youtu.be/0Hi8lmyG0qA]
+  - **[Presentation Video](https://youtu.be/0Hi8lmyG0qA)**
     
 ---
 
@@ -31,6 +31,7 @@ This folder contains project materials and assignment submissions for the module
 - All assignments are submitted as part of NTU's official coursework.
 - Files may include assignment descriptions.
 - Please do not plagiarize. This repository is for learning and reference purposes only.
+
 
 
 
