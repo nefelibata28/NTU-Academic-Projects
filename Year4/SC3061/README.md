@@ -27,7 +27,7 @@ The following are the assignments for this module. All assignments are *individu
 3. **Assignment 3** - High Fidelity Prototype
    > Assignment 3 requires creating a high-fidelity prototype of Assignment 1 using Microsoft PowerPoint. 
    - [Assignment 3 Instructions](https://github.com/nefelibata28/NTU-Academic-Projects/blob/main/Year4/SC3061/Lab4_5-%20Assignment3_Instructions.pdf)
-    -[High-Fidelity Prototype]([pdf]() / [ppt]()) 
+    - [High-Fidelity Prototype]([pdf](https://github.com/nefelibata28/NTU-Academic-Projects/blob/main/Year4/SC3061/TEL4-HiFi_Bhati_Nancy_pdf.pdf) / [ppt](https://github.com/nefelibata28/NTU-Academic-Projects/blob/main/Year4/SC3061/TEL4-HiFi_Bhati_Nancy-%20ppt.pptx) 
       **Note: Open the PowerPoint in Slide Show mode to interact with the prototype.**
    
 ## Notes
@@ -37,6 +37,7 @@ The following are the assignments for this module. All assignments are *individu
 - Please do not plagiarize; this repository is for learning/reference only.
 
 ---
+
 
 
 
