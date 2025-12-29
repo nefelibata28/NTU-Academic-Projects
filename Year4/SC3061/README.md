@@ -16,18 +16,19 @@ The following are the assignments for this module. All assignments are *individu
 
 1. **Assignment 1** - Low Fidelity Prototype
     > Assignment 1 focuses on designing a low-fidelity prototype for public kiosks at an amusement park to help visitors plan their activities.
-    - [Assignment 1 Instructions](https://drive.google.com/file/d/1_RFH0h1yGp-IYJj9M5e4TvBvSHHYAcpH/view?usp=sharing)
-    - [Low-Fidelity Prototype](https://entuedu-my.sharepoint.com/:b:/g/personal/nancy001_e_ntu_edu_sg/EaMweI5Qa2hFgcWqAxean0UBq3DFYWqJrKAtWufRLmJZiQ?e=SZXz1f)
+    - [Assignment 1 Instructions](https://github.com/nefelibata28/NTU-Academic-Projects/blob/main/Year4/SC3061/Lab1_2-%20Assignment1_Instructions.pdf)
+    - [Low-Fidelity Prototype](https://github.com/nefelibata28/NTU-Academic-Projects/blob/main/Year4/SC3061/BHATI%20NANCY__SC3061%20LO-FI%20PROTOTYPE.pdf).
 
 2. **Assignment 2** - Usability Evaluation
    > Assignment 2 involves conducting a usability evaluation of another student’s interactive design based on their prototype.
-    - [Assignment 2 Instructions](https://entuedu-my.sharepoint.com/:b:/g/personal/nancy001_e_ntu_edu_sg/EZfZwiyFcANIqTxwNLuglWYBHJXcG4mX1AP5_Rz3jt4NuA?e=NaYuHi)
-    - [Usability Evaluation](https://entuedu-my.sharepoint.com/:b:/g/personal/nancy001_e_ntu_edu_sg/EUqQTHJCgmhPnI0pCD78Z5MBLkNmP6xmzyBKq4Sccm0Phw?e=D5Yhne)
+    - [Assignment 2 Instructions](https://github.com/nefelibata28/NTU-Academic-Projects/blob/main/Year4/SC3061/Lab3-%20Assignment2_Instructions.pdf)
+    - [Usability Evaluation](https://github.com/nefelibata28/NTU-Academic-Projects/blob/main/Year4/SC3061/Assignment2_Usability%20Evaluation.pdf)
 
 3. **Assignment 3** - High Fidelity Prototype
    > Assignment 3 requires creating a high-fidelity prototype of Assignment 1 using Microsoft PowerPoint. 
-    - [Assignment 3 Instructions](https://entuedu-my.sharepoint.com/:b:/g/personal/nancy001_e_ntu_edu_sg/EcEY3-0ey7VFvH_yN_QvwYMBLAckhzp3iPhDHR3WtLQNcA?e=NSZKQ6)
-    - [High-Fidelity Prototype]() *(to be updated)*
+   - [Assignment 3 Instructions](https://github.com/nefelibata28/NTU-Academic-Projects/blob/main/Year4/SC3061/Lab4_5-%20Assignment3_Instructions.pdf)
+    -[High-Fidelity Prototype]([pdf]() / [ppt]()) 
+      **Note: Open the PowerPoint in Slide Show mode to interact with the prototype.**
    
 ## Notes
 
@@ -36,6 +37,7 @@ The following are the assignments for this module. All assignments are *individu
 - Please do not plagiarize; this repository is for learning/reference only.
 
 ---
+
 
 
 
