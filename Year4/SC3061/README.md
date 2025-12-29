@@ -16,7 +16,7 @@ The following are the assignments for this module. All assignments are *individu
 
 1. **Assignment 1** - Low Fidelity Prototype
     > Assignment 1 focuses on designing a low-fidelity prototype for public kiosks at an amusement park to help visitors plan their activities.
-    - [Assignment 1 Instructions](https://entuedu-my.sharepoint.com/:b:/g/personal/nancy001_e_ntu_edu_sg/EeIfZDrL16NJlr2_m6NuXigBjwJRzsDUpQpM3SPcPQvMMw?e=ZZatGS)
+    - [Assignment 1 Instructions](https://drive.google.com/file/d/1_RFH0h1yGp-IYJj9M5e4TvBvSHHYAcpH/view?usp=sharing)
     - [Low-Fidelity Prototype](https://entuedu-my.sharepoint.com/:b:/g/personal/nancy001_e_ntu_edu_sg/EaMweI5Qa2hFgcWqAxean0UBq3DFYWqJrKAtWufRLmJZiQ?e=SZXz1f)
 
 2. **Assignment 2** - Usability Evaluation
@@ -36,6 +36,7 @@ The following are the assignments for this module. All assignments are *individu
 - Please do not plagiarize; this repository is for learning/reference only.
 
 ---
+
 
 
 
