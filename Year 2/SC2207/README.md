@@ -18,7 +18,7 @@
 3. [Data Insertion Queries](https://entuedu-my.sharepoint.com/:w:/g/personal/nancy001_e_ntu_edu_sg/EQz88ekod1NBqps98JTN1bkBksHdOZ8lNuovlsrcUm8xFw?e=YUFe7H)
 4. [Lab 4 & 5 - SQL Queries](https://drive.google.com/file/d/1iXWRY_ASmlLi5NG_G_GrAHvoKv1zqHPC/view?usp=sharing)
 5. [Query execution videos](https://drive.google.com/drive/folders/1Pyh3FpgmiUhTXnawHq5aVp5b6TZ-b1t_?usp=sharing)
----
+
 
 ## Technical Stack
 
@@ -27,7 +27,7 @@
 
 ---
 
-## Notes
+### Notes
 
 - All work was submitted as part of NTU coursework.
 - This repository is for academic reference and learning purposes only.
