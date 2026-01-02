@@ -16,9 +16,9 @@ The project explores the [World Happiness Report (2015–2019)](https://www.kagg
 
 Key Objectives:
 > - Visualise global happiness trends (2015–2019)
-  - Examine changes in country rankings over time
-  - Analyse key factors influencing happiness scores
-  - Explore relationships between factors and happiness
+>  - Examine changes in country rankings over time
+>  - Analyse key factors influencing happiness scores
+> - Explore relationships between factors and happiness
   
   - **[Project Instructions](https://github.com/nefelibata28/NTU-Academic-Projects/blob/main/Year4/SC4024/Presentation%20and%20Report%20Project%20Instructions.pdf)** 
   - **[Presentation Video](https://www.youtube.com/watch?v=z6MR7f5g8e0)** : Present data insights, trends, and design decisions
@@ -47,6 +47,7 @@ Key Objectives:
 - All assignments are submitted as part of NTU's official coursework.
 - Files may include assignment descriptions.
 - Please do not plagiarize. This repository is for learning and reference purposes only.
+
 
 
 
