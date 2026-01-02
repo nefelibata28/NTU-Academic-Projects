@@ -29,7 +29,12 @@ The following are the assignments for this module. All assignments are *individu
    - [Assignment 3 Instructions](https://github.com/nefelibata28/NTU-Academic-Projects/blob/main/Year4/SC3061/Lab4_5-%20Assignment3_Instructions.pdf)
     - High-Fidelity Prototype  ([pdf](https://drive.google.com/file/d/1AO8TOaFp02JzdVPb47vC-S-Omc_zJI2M/view?usp=sharing) / [ppt](https://github.com/nefelibata28/NTU-Academic-Projects/blob/main/Year4/SC3061/TEL4-HiFi_Bhati_Nancy-%20ppt.pptx) (Original))
       > **Note: Open the PowerPoint in Slide Show mode to interact with the prototype.**
-   
+
+## Tools Used
+- Microsoft PowerPoint
+- Microsoft Word
+- Canva
+
 ## Notes
 
 - All assignments are submitted as part of NTU's official coursework.
@@ -37,6 +42,7 @@ The following are the assignments for this module. All assignments are *individu
 - Please do not plagiarize; this repository is for learning/reference only.
 
 ---
+
 
 
 
