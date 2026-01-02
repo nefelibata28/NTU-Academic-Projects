@@ -20,6 +20,7 @@ The following are the projects for this module. All projects are *group-based*:
 
 ### Project 2
 > This project is designed to deepen the understanding of query optimization and concurrency control through authentic experience on a real database system.
+-  [Project Dataset](https://drive.google.com/file/d/1CWSO6VBVmtVJLLF7XW3To3NIQYF98eeY/view?usp=sharing)
 -  [Project Instructions](https://github.com/nefelibata28/NTU-Academic-Projects/blob/main/Year4/SC3020/Project%201%20Instructions.pdf)
 -  [Project Report](https://github.com/nefelibata28/NTU-Academic-Projects/blob/main/Year4/SC3020/Project%201%20Report.pdf)
 
@@ -35,6 +36,7 @@ The following are the projects for this module. All projects are *group-based*:
 - All assignments are submitted as part of NTU's official coursework.
 - Files may include assignment descriptions.
 - Please do not plagiarize; this repository is for learning/reference only.
+
 
 
 
