@@ -10,7 +10,7 @@ This folder contains project materials and assignment submissions for the module
 
 ### Project: Putting Skills and Knowledge into Creative Practice
 
-  > Objective: An individual based project focused on investigating, exploring, designing, and developing appropriate data visualisations to uncover and share hidden insights from a dataset of your choice.
+  > Objective: An individual based project focused on investigating, exploring, designing, and developing appropriate data visualisations to uncover and share hidden insights from a dataset of choice.
   - **[Database - World Happiness Report](https://www.kaggle.com/datasets/unsdsn/world-happiness)**
   - **[Project Instructions](https://github.com/nefelibata28/NTU-Academic-Projects/blob/main/Year4/SC4024/Presentation%20and%20Report%20Project%20Instructions.pdf)** 
   - **[Presentation Video](https://www.youtube.com/watch?v=z6MR7f5g8e0)**
@@ -38,6 +38,7 @@ This folder contains project materials and assignment submissions for the module
 - All assignments are submitted as part of NTU's official coursework.
 - Files may include assignment descriptions.
 - Please do not plagiarize. This repository is for learning and reference purposes only.
+
 
 
 
