@@ -18,19 +18,25 @@ The following are the projects for this module. All projects are *group-based*:
 -  [Project Report](https://github.com/nefelibata28/NTU-Academic-Projects/blob/main/Year4/SC3020/Project%201%20Report.pdf)
 -  [Code](https://github.com/kumo-ing/SC3020)
 
----
 
-### Project 2 *-To be updated*
+### Project 2
+> This project is designed to deepen the understanding of query optimization and concurrency control through authentic experience on a real database system.
+-  [Project Instructions](https://github.com/nefelibata28/NTU-Academic-Projects/blob/main/Year4/SC3020/Project%201%20Instructions.pdf)
+-  [Project Report](https://github.com/nefelibata28/NTU-Academic-Projects/blob/main/Year4/SC3020/Project%201%20Report.pdf)
 
-
-
----
+### Tools Used
+- VS Code (Project 1) : C++
+- PostgreSQL (Project 2)
+- pgAdmin – Used to write, execute, and test SQL queries in PostgreSQL
+- Canva (Presentation)
+- MS Word (Report)
 
 ## Notes
 
 - All assignments are submitted as part of NTU's official coursework.
 - Files may include assignment descriptions.
 - Please do not plagiarize; this repository is for learning/reference only.
+
 
 
 
