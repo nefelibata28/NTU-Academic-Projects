@@ -2,13 +2,9 @@
 
 This folder includes two major projects for the module **SC3020 – Database System Principles**,  with implementation code, demo videos, and written reports.
 
----
-
 ## Module Overview
 
 SC3020 introduces fundamental principles of database systems, covering relational models, SQL, database design, query processing and optimisation, indexing, and transaction management. 
-
----
 
 ## Projects
 The following are the projects for this module. All projects are *group-based*:
@@ -35,6 +31,7 @@ The following are the projects for this module. All projects are *group-based*:
 - All assignments are submitted as part of NTU's official coursework.
 - Files may include assignment descriptions.
 - Please do not plagiarize; this repository is for learning/reference only.
+
 
 
 
