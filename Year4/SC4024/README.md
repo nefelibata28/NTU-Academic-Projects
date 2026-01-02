@@ -27,7 +27,6 @@ Key Objectives:
   - **[Python](https://github.com/nefelibata28/NTU-Academic-Projects/blob/main/Year4/SC4024/World_Happiness_Report.ipynb)** : Box plot, heatmap, scatter plot, pair plot, stacked bar chart, radar chart
     - Merged multiple annual datasets (2015–2019) into a unified dataset using Python  
     - Converted data from wide to long format to enable time-series and interactive visualisations
----
 
 ### Assignment: Critique the Presentations
   > Objective: An individual based assignment to develop a critical and constructive eye by evaluating two random peers’ data visualisation videos.
@@ -48,6 +47,7 @@ Key Objectives:
 - All assignments are submitted as part of NTU's official coursework.
 - Files may include assignment descriptions.
 - Please do not plagiarize. This repository is for learning and reference purposes only.
+
 
 
 
