@@ -5,7 +5,7 @@
 ---
 
 ## Project
-- [Project Instructions](https://entuedu-my.sharepoint.com/:b:/g/personal/nancy001_e_ntu_edu_sg/ERk8ilJF3tlFsrDKfpHyToAByH5D0Q-sT45LvbYeazHKGQ?e=68Xe2P)
+- [Project Instructions](https://github.com/nefelibata28/NTU-Academic-Projects/blob/main/Year%202/SC2207/SC2207_Lab%20Manual%202023_2024.pdf)
 ### Objectives: 
 - Construct an entity-relationship model at a conceptual level. 
 - Map the model into a schema of a relational DBMS. 
