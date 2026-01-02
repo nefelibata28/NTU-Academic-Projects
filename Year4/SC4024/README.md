@@ -24,7 +24,7 @@ Key Objectives:
   - **[Presentation Video](https://www.youtube.com/watch?v=z6MR7f5g8e0)** : Present data insights, trends, and design decisions
   - **[Summary Report](https://github.com/nefelibata28/NTU-Academic-Projects/blob/main/Year4/SC4024/Summary%20Report.pdf)** : Document objectives, methodology, challenges, and findings
   - **[Tableau Data Visualisation](https://public.tableau.com/views/WorldHappinessReport_17609539410660/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)** : Geospatial map, bar chart, line chart, butterfly chart, dashboard
-  - **[Python]()** : Box plot, heatmap, scatter plot, pair plot, stacked bar chart, radar chart
+  - **[Python](https://github.com/nefelibata28/NTU-Academic-Projects/blob/main/Year4/SC4024/World_Happiness_Report.ipynb)** : Box plot, heatmap, scatter plot, pair plot, stacked bar chart, radar chart
     - Merged multiple annual datasets (2015–2019) into a unified dataset using Python  
     - Converted data from wide to long format to enable time-series and interactive visualisations
 ---
@@ -48,6 +48,7 @@ Key Objectives:
 - All assignments are submitted as part of NTU's official coursework.
 - Files may include assignment descriptions.
 - Please do not plagiarize. This repository is for learning and reference purposes only.
+
 
 
 
