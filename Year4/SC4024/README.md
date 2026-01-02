@@ -38,7 +38,7 @@ Key Objectives
 
 ### Tools Used
 - Tableau
-- Python (
+- Python (pandas, numpy, matplotlib, seaborn, plotly, altair)
 - MS PowerPoint
 - MS Word
 
@@ -47,6 +47,7 @@ Key Objectives
 - All assignments are submitted as part of NTU's official coursework.
 - Files may include assignment descriptions.
 - Please do not plagiarize. This repository is for learning and reference purposes only.
+
 
 
 
