@@ -17,7 +17,7 @@
 2. [Lab 3 - Generation of Normalized Database Schema](https://entuedu-my.sharepoint.com/:w:/g/personal/nancy001_e_ntu_edu_sg/EXUkriLikZhAmA-awXyWkn4BtAYTgaJU75zf_yvNrNLoGQ?e=0E96Aq)
 3. [Data Insertion Queries](https://entuedu-my.sharepoint.com/:w:/g/personal/nancy001_e_ntu_edu_sg/EQz88ekod1NBqps98JTN1bkBksHdOZ8lNuovlsrcUm8xFw?e=YUFe7H)
 4. [Lab 4 & 5 - SQL Queries](https://drive.google.com/file/d/1iXWRY_ASmlLi5NG_G_GrAHvoKv1zqHPC/view?usp=sharing)
-5. [Query execution videos](https://entuedu-my.sharepoint.com/:u:/g/personal/nancy001_e_ntu_edu_sg/EUa07FCo8tdGmbnJbjoZWOcBtE3tciSeQEc95fUD1lr3Og?e=nTaBEP)
+5. [Query execution videos](https://drive.google.com/drive/folders/1Pyh3FpgmiUhTXnawHq5aVp5b6TZ-b1t_?usp=sharing)
 ---
 
 ## Technical Stack
