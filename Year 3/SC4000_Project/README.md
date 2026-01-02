@@ -2,8 +2,6 @@
 
 This folder contains project for **SC4000**. 
 
----
-
 ## Project
    > As part of the SC4000 Machine Learning course, our team worked on the ELO Merchant Category Recommendation challenge from Kaggle.
 
@@ -12,14 +10,10 @@ This folder contains project for **SC4000**.
 - [Video](https://www.youtube.com/watch?v=nK6rqaTp45I&feature=youtu.be)
 
 
----
-
 ## Technical Stack
 
 - **Languages:** Python
 - **IDE:** VS Code, Jupyter Notebook
-
----
 
 ## Notes
 
