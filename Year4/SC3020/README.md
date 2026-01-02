@@ -14,7 +14,6 @@ The following are the projects for this module. All projects are *group-based*:
 -  [NBA team Dataset](https://www.dropbox.com/scl/fi/s4wgb8uspaq1bog6tbyby/games.txt?rlkey=gmc0i28bs53mmxovcewpc4mlx&e=1&dl=0) 
 -  [Project Instructions](https://github.com/nefelibata28/NTU-Academic-Projects/blob/main/Year4/SC3020/Project%201%20Instructions.pdf)
 -  [Project Presentation Video with Demo](https://drive.google.com/file/d/1RCOyaE4KIcApjiW6kEtItv94ioLftM_z/view?usp=sharing)
--  [Project Presentation Slides](https://www.canva.com/design/DAG1eN8yzy0/FuiII7ou8_oOXwyvHochuw/edit?utm_content=DAG1eN8yzy0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 -  [Project Report](https://github.com/nefelibata28/NTU-Academic-Projects/blob/main/Year4/SC3020/Project%201%20Report.pdf)
 -  [Code](https://github.com/kumo-ing/SC3020)
 
@@ -36,6 +35,7 @@ The following are the projects for this module. All projects are *group-based*:
 - All assignments are submitted as part of NTU's official coursework.
 - Files may include assignment descriptions.
 - Please do not plagiarize; this repository is for learning/reference only.
+
 
 
 
