@@ -14,7 +14,7 @@ SC4024 explores data visualisation as a form of creative and critical practice. 
 
 The project explores the [World Happiness Report (2015–2019)](https://www.kaggle.com/datasets/unsdsn/world-happiness) using Tableau and Python to uncover trends, relationships, and insights through effective data storytelling.
 
-Key Objectives 
+Key Objectives:
 - Visualise global happiness trends (2015–2019)
 - Examine changes in country rankings over time
 - Analyse key factors influencing happiness scores
@@ -48,6 +48,7 @@ Key Objectives
 - All assignments are submitted as part of NTU's official coursework.
 - Files may include assignment descriptions.
 - Please do not plagiarize. This repository is for learning and reference purposes only.
+
 
 
 
