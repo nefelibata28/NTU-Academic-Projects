@@ -51,6 +51,7 @@ The goal of this project is to design an interactive kiosk interface for Multive
 - Created hand-sketched prototypes exploring layout, interaction, and user flow.
 - Focused on implementing key features and multiple interaction possibilities.
 - Annotated sketches to explain interactions and temporal aspects.
+<img width="500"  alt="image" src="https://github.com/user-attachments/assets/1a0f0039-a6f7-4e22-b079-4b1e44e2f6b2" />
 
 2. Usability Evaluation (Assignment 2)
 - Conducted a heuristic evaluation using Shneiderman’s Eight Golden Rules.
