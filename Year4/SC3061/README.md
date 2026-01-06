@@ -62,14 +62,18 @@ The goal of this project is to design an interactive kiosk interface for Multive
 - Developed in Microsoft PowerPoint with interactive simulations and enactments.
 - Enhanced aesthetics, added visual clarity, and refined animations to simulate user interactions.
 - Maintained consistency with lo-fi design while incorporating feedback from usability evaluation.
+- <img width="400"  alt="image" src="https://github.com/user-attachments/assets/13273c63-998c-4948-8948-30301b457068" />
+
 
 ## Design Key Features Showcase
 1. Multilingual Support – Interface available in multiple languages to accommodate international visitors.
-2. AI Assistant – Provides quick scheduling suggestions based on group preferences, predicted wait times, and visitor history.
-3. Help & Support – Contextual guidance available throughout the interface to assist users in planning their day.
-4. Group Coordination Tools – Allows families or groups to split tasks while still keeping their itineraries synchronized.
-5. Emotion & Mood Recognition – Adjusts recommendations and notifications based on visitor emotional state for a personalized experience.
-6. Interactive Feedback – Users can rate rides and experiences directly on the kiosk for future optimization.
+  <img width="400" alt="image" src="https://github.com/user-attachments/assets/35f3c3c2-41cf-455b-bef5-b21d1d39366d" />  <img width="400"  alt="image" src="https://github.com/user-attachments/assets/f5042a61-286a-4232-9d12-e7dc041b19c6" />
+
+3. AI Assistant – Provides quick scheduling suggestions based on group preferences, predicted wait times, and visitor history.
+4. Help & Support – Contextual guidance available throughout the interface to assist users in planning their day.
+5. Group Coordination Tools – Allows families or groups to split tasks while still keeping their itineraries synchronized.
+6. Emotion & Mood Recognition – Adjusts recommendations and notifications based on visitor emotional state for a personalized experience.
+7. Interactive Feedback – Users can rate rides and experiences directly on the kiosk for future optimization.
 
 ## Project Assignments & Submissions
 | Assignment | Description | Instructions | Submissions | 
