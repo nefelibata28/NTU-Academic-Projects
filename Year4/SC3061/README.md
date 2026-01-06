@@ -1,7 +1,7 @@
 # SC3061 - Human Computer Interaction
 
 ## Multiversal Studios Amusement Park Kiosk – UX/UI Design Project
-<img width="793" height="568" alt="image" src="https://github.com/user-attachments/assets/f01c6a4b-7aff-4cb8-acb9-6dcfa683b6fa" />
+<img width="500" alt="image" src="https://github.com/user-attachments/assets/f01c6a4b-7aff-4cb8-acb9-6dcfa683b6fa" />
 
 ---
 
