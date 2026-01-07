@@ -6,6 +6,13 @@ This folder includes two major projects for the module **SC3020 – Database Sys
 
 SC3020 introduces fundamental principles of database systems, covering relational models, SQL, database design, query processing and optimisation, indexing, and transaction management. 
 
+## Project Highlights
+
+| Project 1 | Project 2 |
+|-----------|-----------|
+| - Designed and implemented a storage component for a database using a slotted-page heap file. <br> - Built a B+ tree indexing component on top of the storage for fast retrieval and deletion <br> Performed bulk loading, deletion, and query optimization using the B+ tree. <br> Achieved improved query performance over brute-force scanning |  - Practical exploration of query optimization techniques in PostgreSQL <br> - Hands-on experience with concurrency control and transaction isolation levels. <br> - Use of TPC-H benchmark-style datasets to simulate real-world database operations <br> Analysis of execution plans, indexing strategies, and memory management impacts. |
+
+
 ## Projects
 The following are the projects for this module. All projects are *group-based*:
 
@@ -36,6 +43,7 @@ The following are the projects for this module. All projects are *group-based*:
 - All assignments are submitted as part of NTU's official coursework.
 - Files may include assignment descriptions.
 - Please do not plagiarize; this repository is for learning/reference only.
+
 
 
 
