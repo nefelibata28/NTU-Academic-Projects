@@ -76,11 +76,11 @@ The project follows a UML-driven and iterative development methodology:
 ## Application Interface
  <img width="400"  alt="image" src="https://github.com/user-attachments/assets/3b8312b7-b4e5-44fe-9e3b-e05eba8e60be" />  <img width="400"  alt="image" src="https://github.com/user-attachments/assets/9465e4d1-f329-4ad1-9a30-736386e9e6c1" />
  <br>
- *Figure 1: Add Event Page*                                                                                                   *Figure 2: Calendar Page.*
+ *Figure 1: Add Event Page* ----------------------------------------    *Figure 2: Calendar Page.*
  <br>
 <img width="400"  alt="image" src="https://github.com/user-attachments/assets/7d7f8e45-80a0-47af-8ccf-a40b7f57d31c" /> <img width="400"  alt="image" src="https://github.com/user-attachments/assets/3b9e8639-bfb9-463b-9407-86632b25492e" />
 <br>
-*Figure 3: Upload Image Page*                                                                                              *Figure 4: Change Password section on User Profile Page*
+*Figure 3: Upload Image Page*   ------------------------------------      *Figure 4: Change Password section on User Profile Page*
  
 ## Tools Used
 - HTML, CSS, JavaScript – Frontend development
@@ -100,6 +100,7 @@ The project follows a UML-driven and iterative development methodology:
 - All work was submitted as part of NTU coursework.
 - This repository is for academic reference and learning purposes only.
 - Please do not plagiarize.
+
 
 
 
