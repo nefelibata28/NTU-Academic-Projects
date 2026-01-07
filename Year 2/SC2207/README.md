@@ -1,8 +1,7 @@
 # SC2207 - Introduction to Databases
 
 This folder contains the group-based project for **SC2207**.
--------- 
-
+---
 
 ## Project
 - [Project Instructions](https://github.com/nefelibata28/NTU-Academic-Projects/blob/main/Year%202/SC2207/SC2207_Lab%20Manual%202023_2024.pdf)
