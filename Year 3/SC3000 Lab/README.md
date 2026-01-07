@@ -25,16 +25,14 @@ The following are the assignments for this module. All projects are individual-b
 - [Assignment Question 2 Code](https://github.com/nefelibata28/NTU-Academic-Projects/blob/main/Year%203/SC3000%20Lab/Assignment2_BHATI%20NANCY/BHATI%20NANCY_QN_2_1.pl.pl)
 - [Assignment Question 3 Code](https://github.com/nefelibata28/NTU-Academic-Projects/blob/main/Year%203/SC3000%20Lab/Assignment2_BHATI%20NANCY/BHATI%20NANCY_QN_2_2.pl.pl)
   
-<img width="558" height="707" alt="image" src="https://github.com/user-attachments/assets/dc2bd155-e528-4072-a9ef-b140ff2ca5c9" />
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/dc2bd155-e528-4072-a9ef-b140ff2ca5c9" />
 
----
 
 ##  Technical Stack
 
 - **Languages:** Python, Prolog   
 - **IDE:** VS Code, Jupyter Notebook, SWISH
 
----
 
 ## Notes
 
