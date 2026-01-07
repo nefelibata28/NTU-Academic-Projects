@@ -72,6 +72,7 @@ The project follows a UML-driven and iterative development methodology:
 ### 4. Testing
 - White Box Testing for critical logic and control flows
 - Validation of authentication, scheduling, and conflict detection modules
+  
   <img width="400" alt="image" src="https://github.com/user-attachments/assets/fb0726ae-e4c9-4ba1-8dd0-c06a1d511753" />
 
 ## Application Interface
@@ -96,6 +97,7 @@ The project follows a UML-driven and iterative development methodology:
 - All work was submitted as part of NTU coursework.
 - This repository is for academic reference and learning purposes only.
 - Please do not plagiarize.
+
 
 
 
