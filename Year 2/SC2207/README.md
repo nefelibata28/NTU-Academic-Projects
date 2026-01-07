@@ -1,8 +1,5 @@
 # SC2207 - Introduction to Databases
 
-This folder contains the group-based project for **SC2207**.
----
-
 ## Project Highlights
 - Designed a relational database system based on a given application scenario
 - Created ER diagrams, relational schemas, and normalized relations up to Third Normal Form (3NF)
@@ -11,9 +8,7 @@ This folder contains the group-based project for **SC2207**.
 - Team-based database laboratory project at Nanyang Technological University (NTU)
 
 ## Overview
-
 This **group project** is a database design and implementation assignment for the course SC2207 / CZ2007: Introduction to Databases at Nanyang Technological University.
-
 The objective was to design, normalize, and implement a relational database that supports a tourism agency’s application scenario involving users, malls, restaurants, vouchers, day packages, and user relationships. The project focuses strictly on database modeling, schema design, and SQL querying, rather than application or UI development.
 [Project Instructions](https://github.com/nefelibata28/NTU-Academic-Projects/blob/main/Year%202/SC2207/SC2207_Lab%20Manual%202023_2024.pdf)
 
@@ -52,27 +47,27 @@ The objective was to design, normalize, and implement a relational database that
 - Converted ER diagram into relational schema
 - Identified keys and functional dependencies
 - Normalized relations to 3NF
-<img width="400" alt="image" src="https://github.com/user-attachments/assets/6b4eb2b3-f750-48e5-b9d5-fd2e8dea331b" />
+  <img width="400" alt="image" src="https://github.com/user-attachments/assets/6b4eb2b3-f750-48e5-b9d5-fd2e8dea331b" />
 
 3. Database Implementation (Lab 4)
 - Implemented tables using SQL DDL
 - Defined primary keys, foreign keys, and constraints
 - Inserted realistic sample records
-- <img width="475"  alt="image" src="https://github.com/user-attachments/assets/ff2ededb-0b78-4603-a4a3-b766e829d25d" />
+  <img width="475"  alt="image" src="https://github.com/user-attachments/assets/ff2ededb-0b78-4603-a4a3-b766e829d25d" />
 
 4. SQL Querying & Demonstration (Lab 5)
 - Wrote SQL queries to satisfy all requirements in Appendix B
 - Generated query outputs and documented results
 - Recorded query execution demonstrations
   
-<img width="400"  alt="image" src="https://github.com/user-attachments/assets/03896bb8-6a0f-4bb8-acfc-0676969df465" /> <img width="400"  alt="image" src="https://github.com/user-attachments/assets/7ac156a9-217b-42d9-9add-b0514700197a" />
+ <img width="400"  alt="image" src="https://github.com/user-attachments/assets/03896bb8-6a0f-4bb8-acfc-0676969df465" /> <img width="400"  alt="image" src="https://github.com/user-attachments/assets/7ac156a9-217b-42d9-9add-b0514700197a" />
 
 ## Results Summary
 - All required queries in Appendix B were successfully implemented
 - Queries returned meaningful, non-empty results
 - Database schema maintained referential integrity and normalization constraints
 - Demonstrated correct usage of joins, aggregation, subqueries, and filtering
-<img width="500"  alt="image" src="https://github.com/user-attachments/assets/5598ba6f-869c-4e82-bee0-ea75bd6fc474" />  
+ <img width="500"  alt="image" src="https://github.com/user-attachments/assets/5598ba6f-869c-4e82-bee0-ea75bd6fc474" />  
 
 ## Tools Used
 - DBMS: MS SQL Server
