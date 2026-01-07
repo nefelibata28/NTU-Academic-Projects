@@ -66,7 +66,7 @@ The system supports loading data from a file, building an index, executing range
     - Pack leaf nodes and iteratively build parent nodes.
     - Achieve a 2-level tree with 14 leaf nodes and 1 root node.
 - Supports insertion, overflow handling (split & promotion), and dynamic rebalancing.
- <img width="400" alt="image" src="https://github.com/user-attachments/assets/3d350af2-42aa-40d3-81a6-6a5a4c0fff73" /> <img width="600"  alt="image" src="https://github.com/user-attachments/assets/d43cdb5d-b32e-4aee-842e-5f7edabee866" />
+ <img width="400" alt="image" src="https://github.com/user-attachments/assets/3d350af2-42aa-40d3-81a6-6a5a4c0fff73" /> <img width="550"  alt="image" src="https://github.com/user-attachments/assets/d43cdb5d-b32e-4aee-842e-5f7edabee866" />
 
 
 ### 3. Deletion and Query (Task 3)
@@ -75,7 +75,7 @@ The system supports loading data from a file, building an index, executing range
 - B+ tree adjusts nodes via borrowing or merging when underflow occurs.
 - Instrumentation captured: nodes accessed, data blocks accessed, number of games deleted, retrieval time.
 
-  <img width="400"  alt="image" src="https://github.com/user-attachments/assets/75e59541-f6cb-4394-9f41-a565462735ed" /> <img width="400" h alt="image" src="https://github.com/user-attachments/assets/1c0c2f19-e28e-4f4d-9a88-f16f720efebd" />
+  <img width="400"  alt="image" src="https://github.com/user-attachments/assets/75e59541-f6cb-4394-9f41-a565462735ed" /> <img width="450" h alt="image" src="https://github.com/user-attachments/assets/1c0c2f19-e28e-4f4d-9a88-f16f720efebd" />
 
 ---
 
@@ -109,9 +109,9 @@ This project is designed to deepen the understanding of query optimization and c
 - Tested sequential scans, bitmap scans, hash joins, merge joins, and aggregation.
 - Experimented with index creation, hash indexes, and work_mem configurations to observe performance changes.
   
-<img width="500" height="46" alt="image" src="https://github.com/user-attachments/assets/4b8eddaa-b409-4324-96e7-ef4545349b84" />
+<img width="500" height="46" alt="image" src="https://github.com/user-attachments/assets/4b8eddaa-b409-4324-96e7-ef4545349b84" /> <br>
 
-<img width="500" alt="image" src="https://github.com/user-attachments/assets/597fe5fb-6068-42c0-b67e-af45f9d25237" />
+<img width="500" alt="image" src="https://github.com/user-attachments/assets/597fe5fb-6068-42c0-b67e-af45f9d25237" /> </br>
 
 ### 3. Transaction Tasks
 - Executed transactions at READ COMMITTED and SERIALIZABLE isolation levels.
@@ -135,6 +135,7 @@ This project is designed to deepen the understanding of query optimization and c
 - All assignments are submitted as part of NTU's official coursework.
 - Files may include assignment descriptions.
 - Please do not plagiarize; this repository is for learning/reference only.
+
 
 
 
