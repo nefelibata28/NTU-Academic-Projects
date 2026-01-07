@@ -73,12 +73,15 @@ This assignment is to critically analyze video presentations created by classmat
 - Box plots, scatter plots, heatmaps, pair plots to explore correlations.
 - Geospatial maps to visualise global happiness distribution.
 - Line charts and stacked bar charts to examine trends over time.
+<img width="1704"  alt="image" src="https://github.com/user-attachments/assets/beb4a09c-07ec-4f50-9c1a-611eda7586e2" />
 
 
 ### 3. Dashboard & Interactive Visualisations ([Tableau](https://public.tableau.com/views/WorldHappinessReport_17609539410660/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link))
 - Combined multiple visualisations into dashboards for storytelling.
 - Used animation and sequencing for temporal trends.
 - Designed dashboards for clarity, aesthetics, and effective communication.
+  <img width="400"  alt="image" src="https://github.com/user-attachments/assets/dd638004-444d-4111-b0ba-75263f460fb9" /> <img width="400"  alt="image" src="https://github.com/user-attachments/assets/1f3c67ca-ab2b-4823-93d7-611e247d83b8" />
+
 
 ### 4. Presentation & Reporting
 - Created a 5-minute video presentation highlighting insights.
@@ -101,6 +104,7 @@ This assignment is to critically analyze video presentations created by classmat
 - All assignments are submitted as part of NTU's official coursework.
 - Files may include assignment descriptions.
 - Please do not plagiarize. This repository is for learning and reference purposes only.
+
 
 
 
