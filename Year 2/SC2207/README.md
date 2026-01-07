@@ -1,7 +1,7 @@
 # SC2207 - Introduction to Databases
 
- This folder contains the group-based project for **SC2207**.
- 
+This folder contains the group-based project for **SC2207**.
+-------- 
 
 
 ## Project
@@ -87,6 +87,7 @@ The objective was to design, normalize, and implement a relational database that
 - Wrote SQL queries to satisfy all requirements in Appendix B
 - Generated query outputs and documented results
 - Recorded query execution demonstrations
+  
 <img width="400"  alt="image" src="https://github.com/user-attachments/assets/03896bb8-6a0f-4bb8-acfc-0676969df465" /> <img width="400"  alt="image" src="https://github.com/user-attachments/assets/7ac156a9-217b-42d9-9add-b0514700197a" />
 
 ## Results Summary
@@ -95,7 +96,6 @@ The objective was to design, normalize, and implement a relational database that
 - Database schema maintained referential integrity and normalization constraints
 - Demonstrated correct usage of joins, aggregation, subqueries, and filtering
 <img width="500"  alt="image" src="https://github.com/user-attachments/assets/5598ba6f-869c-4e82-bee0-ea75bd6fc474" />  
-
 
 ## Tools Used
 - DBMS: MS SQL Server
