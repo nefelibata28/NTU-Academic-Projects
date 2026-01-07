@@ -40,24 +40,24 @@ The objective was to design, normalize, and implement a relational database that
   - Complaints and complaint status
 
 ## Methodology
-1. ER Modeling (Lab 1)
+### 1. ER Modeling (Lab 1)
 - Analyzed the provided application description
 - Designed an ER diagram capturing entities, relationships, weak entities, and constraints
 <img width="500"  alt="image" src="https://github.com/user-attachments/assets/1b0b6264-6e78-4d92-9bcf-b6196a155b8e" />
 
-2. Schema Design & Normalization (Lab 3)
+### 2. Schema Design & Normalization (Lab 3)
 - Converted ER diagram into relational schema
 - Identified keys and functional dependencies
 - Normalized relations to 3NF
 <img width="400" alt="image" src="https://github.com/user-attachments/assets/6b4eb2b3-f750-48e5-b9d5-fd2e8dea331b" />
 
-3. Database Implementation (Lab 4)
+### 3. Database Implementation (Lab 4)
 - Implemented tables using SQL DDL
 - Defined primary keys, foreign keys, and constraints
 - Inserted realistic sample records
 <img width="300"  alt="image" src="https://github.com/user-attachments/assets/ff2ededb-0b78-4603-a4a3-b766e829d25d" />
 
-4. SQL Querying & Demonstration (Lab 5)
+### 4. SQL Querying & Demonstration (Lab 5)
 - Wrote SQL queries to satisfy all requirements in Appendix B
 - Generated query outputs and documented results
 - Recorded query execution demonstrations
@@ -69,7 +69,7 @@ The objective was to design, normalize, and implement a relational database that
 - Queries returned meaningful, non-empty results
 - Database schema maintained referential integrity and normalization constraints
 - Demonstrated correct usage of joins, aggregation, subqueries, and filtering
-<img width="500"  alt="image" src="https://github.com/user-attachments/assets/5598ba6f-869c-4e82-bee0-ea75bd6fc474" />  
+<img width="450"  alt="image" src="https://github.com/user-attachments/assets/5598ba6f-869c-4e82-bee0-ea75bd6fc474" />  
 
 ## Tools Used
 - DBMS: MS SQL Server
