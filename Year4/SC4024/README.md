@@ -82,7 +82,7 @@ This assignment is to critically analyze video presentations created by classmat
 - Used animation and sequencing for temporal trends.
 - Designed dashboards for clarity, aesthetics, and effective communication.
   
- <img width="420"  alt="image" src="https://github.com/user-attachments/assets/dd638004-444d-4111-b0ba-75263f460fb9" /> <img width="400"  alt="image" src="https://github.com/user-attachments/assets/1f3c67ca-ab2b-4823-93d7-611e247d83b8" />
+ <img width="430"  alt="image" src="https://github.com/user-attachments/assets/dd638004-444d-4111-b0ba-75263f460fb9" /> <img width="400"  alt="image" src="https://github.com/user-attachments/assets/1f3c67ca-ab2b-4823-93d7-611e247d83b8" />
 
 
 ### 4. Presentation & Reporting
@@ -106,6 +106,7 @@ This assignment is to critically analyze video presentations created by classmat
 - All assignments are submitted as part of NTU's official coursework.
 - Files may include assignment descriptions.
 - Please do not plagiarize. This repository is for learning and reference purposes only.
+
 
 
 
