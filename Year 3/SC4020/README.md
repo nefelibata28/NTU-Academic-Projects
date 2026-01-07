@@ -24,7 +24,8 @@ Three algorithms—K-Means, DBSCAN, and Bayesian Networks—were implemented and
  - [Dataset 1 - NBA Shots](https://www.kaggle.com/datasets/mexwell/nba-shots) | [Source Code](https://github.com/nefelibata28/NTU-Academic-Projects/tree/main/Year%203/SC4020/Project%201/Dataset1)
   - [Dataset 2 - World Happiness Report](https://www.kaggle.com/datasets/unsdsn/world-happiness) | [Source Code](https://github.com/nefelibata28/NTU-Academic-Projects/tree/main/Year%203/SC4020/Project%201/Dataset2)
   - [Dataset 3 - Mall Customer Segmentation Data](https://www.kaggle.com/datasets/vjchoudhary7/customer-segmentation-tutorial-in-python) | [Source Code](https://github.com/nefelibata28/NTU-Academic-Projects/tree/main/Year%203/SC4020/Project%201/Dataset3)
-<br> 
+
+
 - [Project Report](https://drive.google.com/file/d/1a5dH3eZEszyzmN6zcldvdW6cJPyNFnUs/view?usp=sharing)
 
 ### Objectives
@@ -55,8 +56,8 @@ Three algorithms—K-Means, DBSCAN, and Bayesian Networks—were implemented and
 - PCA for dimensionality reduction where necessary.
   
 ### Results
-<img width="400" alt="image" src="https://github.com/user-attachments/assets/149628e5-50d3-4231-9131-51d3c9ff804e" />  <img width="400"   alt="image" src="https://github.com/user-attachments/assets/6eae19bd-62af-4b20-872c-c522538127d8" />
-*Figure: Results of Dataset 1*   ----------------------------------- *Figure: Results of Dataset 2*
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/149628e5-50d3-4231-9131-51d3c9ff804e" />  <img width="500"   alt="image" src="https://github.com/user-attachments/assets/6eae19bd-62af-4b20-872c-c522538127d8" />
+*Figure: Results of Dataset 1*   ----------------------------- *Figure: Results of Dataset 2*
 
 Overall Recommendation: DBSCAN consistently performed best across datasets, particularly in identifying clusters of arbitrary shapes and handling noise.
 
