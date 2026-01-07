@@ -14,8 +14,10 @@ SC4024 explores data visualisation as a form of creative and critical practice. 
 
 ##  Project 1 
 An individual based project focused on investigating, exploring, designing, and developing appropriate data visualisations to uncover and share hidden insights from a dataset of choice.
+
 This project aimed to apply data visualisation techniques to discover and communicate insights from the [World Happiness Report dataset (2015–2019)](https://www.kaggle.com/datasets/unsdsn/world-happiness/). The focus was on data storytelling through effective charts, dashboards, and visual narratives using Tableau and Python.
-  - **[Project Instructions](https://drive.google.com/file/d/1Y9MVY7y8b_C3YieKNpGD9Ni_aRfu5aID/view?usp=sharing)** 
+
+**[Project Instructions](https://drive.google.com/file/d/1Y9MVY7y8b_C3YieKNpGD9Ni_aRfu5aID/view?usp=sharing)** 
 
 ## Objectives
 - Visualise global happiness trends from 2015 to 2019.
@@ -40,22 +42,16 @@ The dataset was **preprocessed and merged** into a unified dataset for analysis.
 
 | Deliverable | Description |
 |------------|-------------|
-| **[Presentation Video]((https://www.youtube.com/watch?v=z6MR7f5g8e0))** | 5-minute video demonstrating insights, trends, and design decisions. |
+| **[Presentation Video](https://www.youtube.com/watch?v=z6MR7f5g8e0)** | 5-minute video demonstrating insights, trends, and design decisions. |
 | **[Summary Report](https://drive.google.com/file/d/1ZEjyn0eaTzZlKEJJYPnQ_9L2hn7IwhR3/view?usp=sharing)** | Document objectives, dataset background, methodology, technical challenges, and key insights. |
 | **[Tableau Data Visualisations](https://public.tableau.com/views/WorldHappinessReport_17609539410660/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)** | Tableau dashboards: geospatial map, bar chart, line chart, dashboard.  | 
 | **[Python](https://github.com/nefelibata28/NTU-Academic-Projects/blob/main/Year4/SC4024/World_Happiness_Report.ipynb)** | Python visualisations: box plot, heatmap, scatter plot, pair plot, stacked bar chart, radar chart. |
   
 
-  - **[Presentation Video]** : Present data insights, trends, and design decisions
-  - **[Summary Report](https://github.com/nefelibata28/NTU-Academic-Projects/blob/main/Year4/SC4024/Summary%20Report.pdf)** : Document objectives, methodology, challenges, and findings
-  - **[Tableau Data Visualisation]** : Geospatial map, bar chart, line chart, butterfly chart, dashboard
-  - **[Python]** : Box plot, heatmap, scatter plot, pair plot, stacked bar chart, radar chart
-    - Merged multiple annual datasets (2015–2019) into a unified dataset using Python  
-    - Converted data from wide to long format to enable time-series and interactive visualisations
-
 ## Project 2 
 This assignment is to critically analyze video presentations created by classmates (from Project 1) and provide detailed, constructive feedback on the effectiveness of their data visualizations.
-  - **[Project 2 Instructions](https://drive.google.com/file/d/1I38vZEEEsqQ2Bs7ogDFA4kzL2w4ZM_nC/view?usp=sharing)** 
+
+**[Project 2 Instructions](https://drive.google.com/file/d/1I38vZEEEsqQ2Bs7ogDFA4kzL2w4ZM_nC/view?usp=sharing)** 
 
 ## Objectives
 - Identify effective and ineffective use of data visualizations.
@@ -105,6 +101,7 @@ This assignment is to critically analyze video presentations created by classmat
 - All assignments are submitted as part of NTU's official coursework.
 - Files may include assignment descriptions.
 - Please do not plagiarize. This repository is for learning and reference purposes only.
+
 
 
 
