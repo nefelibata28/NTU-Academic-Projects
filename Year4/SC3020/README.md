@@ -12,6 +12,11 @@ SC3020 introduces fundamental principles of database systems, covering relationa
 |-----------|-----------|
 | - Designed and implemented a storage component for a database using a slotted-page heap file <br> - Built a B+ tree indexing component on top of the storage for fast retrieval and deletion <br> - Performed bulk loading, deletion, and query optimization using the B+ tree <br> - Achieved improved query performance over brute-force scanning | - Practical exploration of query optimization techniques in PostgreSQL <br> - Hands-on experience with concurrency control and transaction isolation levels <br> - Use of TPC-H benchmark-style datasets to simulate real-world database operations <br> - Analysis of execution plans, indexing strategies, and memory management impacts |
 
+## Project Deliverables (Group Project)
+| Project 1 | Project 2 |
+|-----------|-----------|
+| -  [Project Presentation Video with Demo](https://drive.google.com/file/d/1RCOyaE4KIcApjiW6kEtItv94ioLftM_z/view?usp=sharing) <br> - [Project Report](https://drive.google.com/file/d/1bE02snDvJxGLSowl9Gd9uyLFbWoH-TDY/view?usp=sharing) <br> - [Project Code](https://github.com/kumo-ing/SC3020) | -  [Project Report](https://drive.google.com/file/d/146qmzb4o6hKYkh7w1qZo94jZmkk7waqt/view?usp=sharing)|
+
 
 ## Projects
 The following are the projects for this module. All projects are *group-based*:
@@ -32,17 +37,20 @@ The following are the projects for this module. All projects are *group-based*:
 -  [Project Report](https://github.com/nefelibata28/NTU-Academic-Projects/blob/main/Year4/SC3020/Project%201%20Report.pdf)
 
 ## Tools Used
-- VS Code (Project 1) : C++
-- PostgreSQL (Project 2)
-- pgAdmin – Used to write, execute, and test SQL queries in PostgreSQL
+- Project 1
+  - VS Code : C++
+  - Data Structures: Heap file, B+ tree
+- Project 2
+  - PostgreSQL : Database engine for query execution and transaction handling.
+  - pgAdmin : Used to write, execute, and test SQL queries in PostgreSQL
 - Canva (Presentation)
 - MS Word (Report)
 
 ## Notes
-
 - All assignments are submitted as part of NTU's official coursework.
 - Files may include assignment descriptions.
 - Please do not plagiarize; this repository is for learning/reference only.
+
 
 
 
