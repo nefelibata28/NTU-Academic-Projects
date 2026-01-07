@@ -57,6 +57,7 @@ Three algorithms—K-Means, DBSCAN, and Bayesian Networks—were implemented and
   
 ### Results
 <img width="400" alt="image" src="https://github.com/user-attachments/assets/149628e5-50d3-4231-9131-51d3c9ff804e" />  <img width="500"   alt="image" src="https://github.com/user-attachments/assets/6eae19bd-62af-4b20-872c-c522538127d8" />
+
 *Figure: Results of Dataset 1*   ----------------------------- *Figure: Results of Dataset 2*
 
 Overall Recommendation: DBSCAN consistently performed best across datasets, particularly in identifying clusters of arbitrary shapes and handling noise.
