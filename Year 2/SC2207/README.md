@@ -9,8 +9,10 @@
 
 ## Overview
 This **group project** is a database design and implementation assignment for the course SC2207 / CZ2007: Introduction to Databases at Nanyang Technological University.
+
 The objective was to design, normalize, and implement a relational database that supports a tourism agency’s application scenario involving users, malls, restaurants, vouchers, day packages, and user relationships. The project focuses strictly on database modeling, schema design, and SQL querying, rather than application or UI development.
-[Project Instructions](https://github.com/nefelibata28/NTU-Academic-Projects/blob/main/Year%202/SC2207/SC2207_Lab%20Manual%202023_2024.pdf)
+
+[Project Instructions](https://drive.google.com/file/d/1yFeJoRXUJAm_CfhKFhz_qVj7DxZ5g8Kn/view?usp=sharing)
 
 ## Objectives
 - Construct a conceptual ER model from a given problem description
@@ -20,9 +22,9 @@ The objective was to design, normalize, and implement a relational database that
 - Write SQL queries to retrieve and analyze data
 
 ## Deliverables:
-1. [Lab 1 & 2 - ER Diagram](https://github.com/nefelibata28/NTU-Academic-Projects/blob/main/Year%202/SC2207/ER%20diagram%20Suggestion.pdf)
-2. [Lab 3 - Generation of Normalized Database Schema](https://entuedu-my.sharepoint.com/:w:/g/personal/nancy001_e_ntu_edu_sg/EXUkriLikZhAmA-awXyWkn4BtAYTgaJU75zf_yvNrNLoGQ?e=0E96Aq)
-3. [Data Insertion Queries](https://entuedu-my.sharepoint.com/:w:/g/personal/nancy001_e_ntu_edu_sg/EQz88ekod1NBqps98JTN1bkBksHdOZ8lNuovlsrcUm8xFw?e=YUFe7H)
+1. [Lab 1 & 2 - ER Diagram](https://drive.google.com/file/d/1TC_3b9zYafxnEb8EdVBSz73WwlDbyxag/view?usp=sharing)
+2. [Lab 3 - Generation of Normalized Database Schema](https://drive.google.com/file/d/16H319AT1wfq6LL__IFLDRs-VxXRwjCvM/view?usp=sharing)
+3. [Data Insertion Queries](https://drive.google.com/file/d/1lLEC6DIiNr_7Iye2YeOOAhq_1QdMyX0Z/view?usp=sharing)
 4. [Lab 4 & 5 - SQL Queries](https://drive.google.com/file/d/1iXWRY_ASmlLi5NG_G_GrAHvoKv1zqHPC/view?usp=sharing)
 5. [Query execution videos](https://drive.google.com/drive/folders/1Pyh3FpgmiUhTXnawHq5aVp5b6TZ-b1t_?usp=sharing)
 
@@ -53,13 +55,14 @@ The objective was to design, normalize, and implement a relational database that
 - Implemented tables using SQL DDL
 - Defined primary keys, foreign keys, and constraints
 - Inserted realistic sample records
-<img width="475"  alt="image" src="https://github.com/user-attachments/assets/ff2ededb-0b78-4603-a4a3-b766e829d25d" />
+<img width="300"  alt="image" src="https://github.com/user-attachments/assets/ff2ededb-0b78-4603-a4a3-b766e829d25d" />
 
 4. SQL Querying & Demonstration (Lab 5)
 - Wrote SQL queries to satisfy all requirements in Appendix B
 - Generated query outputs and documented results
 - Recorded query execution demonstrations
-<img width="400"  alt="image" src="https://github.com/user-attachments/assets/03896bb8-6a0f-4bb8-acfc-0676969df465" /> <img width="400"  alt="image" src="https://github.com/user-attachments/assets/7ac156a9-217b-42d9-9add-b0514700197a" />
+  
+<img width="350"  alt="image" src="https://github.com/user-attachments/assets/03896bb8-6a0f-4bb8-acfc-0676969df465" /> <img width="400"  alt="image" src="https://github.com/user-attachments/assets/7ac156a9-217b-42d9-9add-b0514700197a" />
 
 ## Results Summary
 - All required queries in Appendix B were successfully implemented
