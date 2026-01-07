@@ -74,7 +74,7 @@ This assignment is to critically analyze video presentations created by classmat
 - Geospatial maps to visualise global happiness distribution.
 - Line charts and stacked bar charts to examine trends over time.
   
-<img width="600"  alt="image" src="https://github.com/user-attachments/assets/beb4a09c-07ec-4f50-9c1a-611eda7586e2" /> <img width="400"  alt="image" src="https://github.com/user-attachments/assets/05d4f939-6189-49db-95ef-6a889f4f1d61" />
+<img width="700"  alt="image" src="https://github.com/user-attachments/assets/beb4a09c-07ec-4f50-9c1a-611eda7586e2" /> <img width="300"  alt="image" src="https://github.com/user-attachments/assets/05d4f939-6189-49db-95ef-6a889f4f1d61" />
 
 
 ### 3. Dashboard & Interactive Visualisations ([Tableau](https://public.tableau.com/views/WorldHappinessReport_17609539410660/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link))
@@ -106,6 +106,7 @@ This assignment is to critically analyze video presentations created by classmat
 - All assignments are submitted as part of NTU's official coursework.
 - Files may include assignment descriptions.
 - Please do not plagiarize. This repository is for learning and reference purposes only.
+
 
 
 
