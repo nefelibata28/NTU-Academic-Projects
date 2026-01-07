@@ -8,7 +8,7 @@
 ## Project Overview
 The goal of this project is to design an interactive kiosk interface for Multiversal Studios amusement park that helps visitors plan their day efficiently. The kiosks provide an intuitive, engaging, and interactive experience for visitors, allowing them to select rides, shows, and eateries while factoring in real-time wait times, distances, and group preferences. The project emphasizes usability, user experience, and creativity in interface design.
 
-**Note:** All assignments in this project — lo-fi prototype, usability evaluation, and hi-fi prototype are **individual-based assigments**.
+**Note:** All assignments in this project — [lo-fi prototype](https://github.com/nefelibata28/NTU-Academic-Projects/blob/main/Year4/SC3061/BHATI%20NANCY__SC3061%20LO-FI%20PROTOTYPE.pdf), [usability evaluation](https://github.com/nefelibata28/NTU-Academic-Projects/blob/main/Year4/SC3061/Assignment2_Usability%20Evaluation.pdf), and [hi-fi prototype](https://drive.google.com/file/d/1AO8TOaFp02JzdVPb47vC-S-Omc_zJI2M/view?usp=sharing) are **individual-based assigments**.
 
 ## Problem Statement
 - Visitors at Multiversal Studios face two main challenges:
@@ -48,18 +48,18 @@ The goal of this project is to design an interactive kiosk interface for Multive
 - Help & Support – Offers a comprehensive help section with common FAQs, step-by-step guidance, and an AI assistant for instant troubleshooting. Users can also connect with support staff for complex issues.
 
 ## Design Process
-1. Low-Fidelity Prototype (Assignment 1)
+1. [Low-Fidelity Prototype (Assignment 1)](https://github.com/nefelibata28/NTU-Academic-Projects/blob/main/Year4/SC3061/BHATI%20NANCY__SC3061%20LO-FI%20PROTOTYPE.pdf)
 - Created hand-sketched prototypes exploring layout, interaction, and user flow.
 - Focused on implementing key features and multiple interaction possibilities.
 - Annotated sketches to explain interactions and temporal aspects.
 <img width="500"  alt="image" src="https://github.com/user-attachments/assets/1a0f0039-a6f7-4e22-b079-4b1e44e2f6b2" />
 
-2. Usability Evaluation (Assignment 2)
+2. [Usability Evaluation (Assignment 2)](https://github.com/nefelibata28/NTU-Academic-Projects/blob/main/Year4/SC3061/Assignment2_Usability%20Evaluation.pdf)
 - Conducted a heuristic evaluation using Shneiderman’s Eight Golden Rules.
 - Critiqued a peer’s lo-fi prototype and received feedback on our design.
 - Identified usability issues and incorporated suggestions to improve interaction clarity.
 
-3. High-Fidelity Prototype (Assignment 3)
+3. [High-Fidelity Prototype (Assignment 3)](https://drive.google.com/file/d/1AO8TOaFp02JzdVPb47vC-S-Omc_zJI2M/view?usp=sharing)
 - Developed in Microsoft PowerPoint with interactive simulations and enactments.
 - Enhanced aesthetics, added visual clarity, and refined animations to simulate user interactions.
 - Maintained consistency with lo-fi design while incorporating feedback from usability evaluation.
