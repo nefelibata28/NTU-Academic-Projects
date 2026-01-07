@@ -40,7 +40,7 @@ new_merchant_transactions.csv - two months' worth of data for each card_id conta
 ### 1. Exploratory Data Analysis (EDA)
 - Examined feature distributions, correlations, and outliers.
 - Identified weak correlation between features and target, highlighting the need for feature engineering.
-<img width="400"  alt="image" src="https://github.com/user-attachments/assets/9524fd08-504e-443d-bf40-b5ce496fd204" /> <img width="550"  alt="image" src="https://github.com/user-attachments/assets/c6b8fde0-bd9d-4b24-98ad-89a552227537" />
+<img width="550"  alt="image" src="https://github.com/user-attachments/assets/9524fd08-504e-443d-bf40-b5ce496fd204" /> <img width="400"  alt="image" src="https://github.com/user-attachments/assets/c6b8fde0-bd9d-4b24-98ad-89a552227537" />
 
 
 ### 2. Feature Engineering
@@ -60,7 +60,8 @@ new_merchant_transactions.csv - two months' worth of data for each card_id conta
 - Predictions from base models were stacked using a neural network meta-learner.
 - Multi-head attention mechanism applied to improve feature weighting.
 - Averaged predictions from multiple neural networks to minimize noise.
-<img width="400"  alt="image" src="https://github.com/user-attachments/assets/4c22f7e3-21be-4e35-8beb-e0a5d94e42f0" />  <img width="550" alt="image" src="https://github.com/user-attachments/assets/badc938d-b252-4880-ae00-0f4996a1fea6" />
+  
+<img width="400"  alt="image" src="https://github.com/user-attachments/assets/4c22f7e3-21be-4e35-8beb-e0a5d94e42f0" />  <img width="500" alt="image" src="https://github.com/user-attachments/assets/badc938d-b252-4880-ae00-0f4996a1fea6" />
 
 
 ## Deliverables
@@ -68,7 +69,8 @@ new_merchant_transactions.csv - two months' worth of data for each card_id conta
 - [Video](https://www.youtube.com/watch?v=nK6rqaTp45I&feature=youtu.be)
 
 ## Result
-<img width="500" alt="image" src="https://github.com/user-attachments/assets/7123c0b7-1711-4c92-822e-f6275f0fef70" />
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/7123c0b7-1711-4c92-822e-f6275f0fef70" />
+
 As final enhancements, we’ve trained with 50 separate neural network models, each with a randomly assigned number of epochs (in multiples of 10) to introduce variance between them.
 
 The predictions were averaged to derive our final prediction, minimising the effect of noise picked up by each meta model. Our score improved to 3.649 (4s.f) on the validation set and 3.683 (4s.f) on Kaggle, which commensurates to 337th place out of 4111 submissions in ELO’s
