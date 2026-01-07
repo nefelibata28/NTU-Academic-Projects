@@ -28,17 +28,6 @@ The objective was to design, normalize, and implement a relational database that
 4. [Lab 4 & 5 - SQL Queries](https://drive.google.com/file/d/1iXWRY_ASmlLi5NG_G_GrAHvoKv1zqHPC/view?usp=sharing)
 5. [Query execution videos](https://drive.google.com/drive/folders/1Pyh3FpgmiUhTXnawHq5aVp5b6TZ-b1t_?usp=sharing)
 
-## Dataset Overview
-- Dataset is synthetically generated and populated using SQL
-- Designed to support all required queries with non-empty outputs
-- Data includes:
-  - Users and user relationships
-  - Malls, mall chains, shops
-  - Restaurants and restaurant chains
-  - Visits, recommendations, and vouchers
-  - Day packages and group participation
-  - Complaints and complaint status
-
 ## Methodology
 ### 1. ER Modeling (Lab 1)
 - Analyzed the provided application description
