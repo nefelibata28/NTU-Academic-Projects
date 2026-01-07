@@ -15,7 +15,7 @@ SC4024 explores data visualisation as a form of creative and critical practice. 
 ##  Project 1 
 An individual based project focused on investigating, exploring, designing, and developing appropriate data visualisations to uncover and share hidden insights from a dataset of choice.
 
-This project aimed to apply data visualisation techniques to discover and communicate insights from the [World Happiness Report dataset (2015–2019)](https://www.kaggle.com/datasets/unsdsn/world-happiness/). The focus was on data storytelling through effective charts, dashboards, and visual narratives using Tableau and Python.
+This project aimed to apply data visualisation techniques to discover and communicate insights from the [World Happiness Report dataset (2015–2019)](https://www.kaggle.com/datasets/unsdsn/world-happiness/).  The focus was on data storytelling through effective charts, dashboards, and visual narratives using Tableau and Python.
 
 **[Project Instructions](https://drive.google.com/file/d/1Y9MVY7y8b_C3YieKNpGD9Ni_aRfu5aID/view?usp=sharing)** 
 
@@ -64,18 +64,18 @@ This assignment is to critically analyze video presentations created by classmat
 
 ## Methodology
 
-### 1. Data Cleaning & Preparation (Python)
+### 1. Data Cleaning & Preparation ([Python](https://github.com/nefelibata28/NTU-Academic-Projects/blob/main/Year4/SC4024/World_Happiness_Report.ipynb))
 - Merged datasets (2015–2019).
 - Handled missing values and formatted data for analysis.
 - Converted wide format to long format for time-series visualisations.
 
-### 2. Exploratory Visualisations (Python & Tableau)
+### 2. Exploratory Visualisations ([Python](https://github.com/nefelibata28/NTU-Academic-Projects/blob/main/Year4/SC4024/World_Happiness_Report.ipynb) & [Tableau](https://public.tableau.com/views/WorldHappinessReport_17609539410660/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link))
 - Box plots, scatter plots, heatmaps, pair plots to explore correlations.
 - Geospatial maps to visualise global happiness distribution.
 - Line charts and stacked bar charts to examine trends over time.
 
 
-### 3. Dashboard & Interactive Visualisations (Tableau)
+### 3. Dashboard & Interactive Visualisations ([Tableau](https://public.tableau.com/views/WorldHappinessReport_17609539410660/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link))
 - Combined multiple visualisations into dashboards for storytelling.
 - Used animation and sequencing for temporal trends.
 - Designed dashboards for clarity, aesthetics, and effective communication.
@@ -92,8 +92,8 @@ This assignment is to critically analyze video presentations created by classmat
 - Developed a critical eye by evaluating peers’ visualisation presentations.
 
 ## Tools & Technologies
-- Tableau – Geospatial maps, dashboards, and interactive visualisations.
-- Python – pandas, numpy, matplotlib, seaborn, plotly, altair for data processing and charts.
+- [Tableau](https://public.tableau.com/views/WorldHappinessReport_17609539410660/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) – Geospatial maps, dashboards, and interactive visualisations.
+- [Python](https://github.com/nefelibata28/NTU-Academic-Projects/blob/main/Year4/SC4024/World_Happiness_Report.ipynb) – pandas, numpy, matplotlib, seaborn, plotly, altair for data processing and charts.
 - MS PowerPoint – Video editing and annotations.
 - MS Word – Summary and critique reports.
 
@@ -101,6 +101,7 @@ This assignment is to critically analyze video presentations created by classmat
 - All assignments are submitted as part of NTU's official coursework.
 - Files may include assignment descriptions.
 - Please do not plagiarize. This repository is for learning and reference purposes only.
+
 
 
 
