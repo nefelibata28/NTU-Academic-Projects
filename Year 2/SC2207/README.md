@@ -3,35 +3,6 @@
 This folder contains the group-based project for **SC2207**.
 ---
 
-## Project
-- [Project Instructions](https://github.com/nefelibata28/NTU-Academic-Projects/blob/main/Year%202/SC2207/SC2207_Lab%20Manual%202023_2024.pdf)
-### Objectives: 
-- Construct an entity-relationship model at a conceptual level. 
-- Map the model into a schema of a relational DBMS. 
-- Implement the given schema on a relational DBMS. 
-- Use a database language (SQL) to retrieval data from a relational DBMS.
-  
-### Deliverables:
-1. [Lab 1 & 2 - ER Diagram](https://github.com/nefelibata28/NTU-Academic-Projects/blob/main/Year%202/SC2207/ER%20diagram%20Suggestion.pdf)
-2. [Lab 3 - Generation of Normalized Database Schema](https://entuedu-my.sharepoint.com/:w:/g/personal/nancy001_e_ntu_edu_sg/EXUkriLikZhAmA-awXyWkn4BtAYTgaJU75zf_yvNrNLoGQ?e=0E96Aq)
-3. [Data Insertion Queries](https://entuedu-my.sharepoint.com/:w:/g/personal/nancy001_e_ntu_edu_sg/EQz88ekod1NBqps98JTN1bkBksHdOZ8lNuovlsrcUm8xFw?e=YUFe7H)
-4. [Lab 4 & 5 - SQL Queries](https://drive.google.com/file/d/1iXWRY_ASmlLi5NG_G_GrAHvoKv1zqHPC/view?usp=sharing)
-5. [Query execution videos](https://drive.google.com/drive/folders/1Pyh3FpgmiUhTXnawHq5aVp5b6TZ-b1t_?usp=sharing)
-
-
-## Technical Stack
-
-- **Languages:** MySQL  
-- **Software:** MS SQL Server
-
-
-
-### Notes
-
-- All work was submitted as part of NTU coursework.
-- This repository is for academic reference and learning purposes only.
-- Please do not plagiarize.
-
 ## Project Highlights
 - Designed a relational database system based on a given application scenario
 - Created ER diagrams, relational schemas, and normalized relations up to Third Normal Form (3NF)
@@ -44,6 +15,7 @@ This folder contains the group-based project for **SC2207**.
 This **group project** is a database design and implementation assignment for the course SC2207 / CZ2007: Introduction to Databases at Nanyang Technological University.
 
 The objective was to design, normalize, and implement a relational database that supports a tourism agency’s application scenario involving users, malls, restaurants, vouchers, day packages, and user relationships. The project focuses strictly on database modeling, schema design, and SQL querying, rather than application or UI development.
+[Project Instructions](https://github.com/nefelibata28/NTU-Academic-Projects/blob/main/Year%202/SC2207/SC2207_Lab%20Manual%202023_2024.pdf)
 
 ## Objectives
 - Construct a conceptual ER model from a given problem description
@@ -51,6 +23,13 @@ The objective was to design, normalize, and implement a relational database that
 - Normalize relations to at least Third Normal Form (3NF)
 - Implement the schema on a relational DBMS
 - Write SQL queries to retrieve and analyze data
+
+## Deliverables:
+1. [Lab 1 & 2 - ER Diagram](https://github.com/nefelibata28/NTU-Academic-Projects/blob/main/Year%202/SC2207/ER%20diagram%20Suggestion.pdf)
+2. [Lab 3 - Generation of Normalized Database Schema](https://entuedu-my.sharepoint.com/:w:/g/personal/nancy001_e_ntu_edu_sg/EXUkriLikZhAmA-awXyWkn4BtAYTgaJU75zf_yvNrNLoGQ?e=0E96Aq)
+3. [Data Insertion Queries](https://entuedu-my.sharepoint.com/:w:/g/personal/nancy001_e_ntu_edu_sg/EQz88ekod1NBqps98JTN1bkBksHdOZ8lNuovlsrcUm8xFw?e=YUFe7H)
+4. [Lab 4 & 5 - SQL Queries](https://drive.google.com/file/d/1iXWRY_ASmlLi5NG_G_GrAHvoKv1zqHPC/view?usp=sharing)
+5. [Query execution videos](https://drive.google.com/drive/folders/1Pyh3FpgmiUhTXnawHq5aVp5b6TZ-b1t_?usp=sharing)
 
 ## Dataset Overview
 - Dataset is synthetically generated and populated using SQL
@@ -68,7 +47,6 @@ The objective was to design, normalize, and implement a relational database that
 - Analyzed the provided application description
 - Designed an ER diagram capturing entities, relationships, weak entities, and constraints
   <img width="500"  alt="image" src="https://github.com/user-attachments/assets/1b0b6264-6e78-4d92-9bcf-b6196a155b8e" />
-
 
 2 Schema Design & Normalization (Lab 3)
 - Converted ER diagram into relational schema
@@ -109,3 +87,13 @@ The objective was to design, normalize, and implement a relational database that
 - Writing advanced SQL involving joins, grouping, and nested queries
 - Working effectively in a team-based academic setting
 
+## Technical Stack
+- DBMS: MS SQL Server
+- Query Language: SQL
+- Modeling: ER Diagram tools
+- Documentation: PDF reports, screen recordings
+
+## Notes
+- All work was submitted as part of NTU coursework.
+- This repository is for academic reference and learning purposes only.
+- Please do not plagiarize.
