@@ -6,21 +6,48 @@ This folder contains project materials and assignment submissions for the module
 
 SC4024 explores data visualisation as a form of creative and critical practice. Students learn to investigate, design, and communicate data-driven insights using   appropriate visualisation techniques.
 
----
+--
 
-### Project: Putting Skills and Knowledge into Creative Practice
+ ## Project Highlights
+- Individual project for NTU’s SC4024 module (Data Visualisation).
+- Explored and visualised the World Happiness Report (2015–2019) using Tableau and Python.
+- Developed interactive and static visualisations to uncover trends, relationships, and insights.
+- Presented findings through a 5-minute video presentation and a summary report.
 
-  > Objective: An individual based project focused on investigating, exploring, designing, and developing appropriate data visualisations to uncover and share hidden insights from a dataset of choice.
-
-The project explores the [World Happiness Report (2015–2019)](https://www.kaggle.com/datasets/unsdsn/world-happiness) using Tableau and Python to uncover trends, relationships, and insights through effective data storytelling.
-
-**Key Objectives:**
-> - Visualise global happiness trends (2015–2019)
->  - Examine changes in country rankings over time
->  - Analyse key factors influencing happiness scores
-> - Explore relationships between factors and happiness
-  
+##  Project 1 
+An individual based project focused on investigating, exploring, designing, and developing appropriate data visualisations to uncover and share hidden insights from a dataset of choice.
+This project aimed to apply data visualisation techniques to discover and communicate insights from the [World Happiness Report dataset (2015–2019)](https://www.kaggle.com/datasets/unsdsn/world-happiness/). The focus was on data storytelling through effective charts, dashboards, and visual narratives using Tableau and Python.
   - **[Project Instructions](https://github.com/nefelibata28/NTU-Academic-Projects/blob/main/Year4/SC4024/Presentation%20and%20Report%20Project%20Instructions.pdf)** 
+
+## Objectives
+- Visualise global happiness trends from 2015 to 2019.
+- Examine changes in country rankings over time.
+- Analyse key factors influencing happiness scores.
+- Explore relationships between factors and happiness scores using various visualisation techniques.
+- Present findings in a concise video and summary report.
+
+## Dataset Overview
+The dataset used for this project is the **World Happiness Report (2015–2019)**, sourced from [Kaggle](https://www.kaggle.com/datasets/unsdsn/world-happiness/).  
+
+It includes:
+- Country-level happiness scores for 2015–2019  
+- Factors influencing happiness (e.g., GDP per capita, social support, life expectancy, freedom, generosity, corruption)  
+- Country rankings and changes over time  
+
+The dataset was **preprocessed and merged** into a unified dataset for analysis. Wide-format data was converted to long format to enable **time-series visualisation and interactive dashboards**.
+
+<img width="500"  alt="image" src="https://github.com/user-attachments/assets/c3ad9b39-efdd-40bb-accf-0491af02e53f" />
+
+## Project Deliverables
+
+| Deliverable | Description | Submission Mode |
+|------------|-------------|----------------|
+| **Presentation Video** | 5-minute video demonstrating insights, trends, and design decisions. Original narration required. | Uploaded to YouTube |
+| **Summary Report** | 2-page report detailing objectives, dataset background, methodology, technical challenges, and key insights. | PDF/Word upload to NTULearn |
+| **Data Visualisations** | Tableau dashboards: geospatial map, bar chart, line chart, butterfly chart. Python visualisations: box plot, heatmap, scatter plot, pair plot, stacked bar chart, radar chart. | Included in project folder |
+| **Critique Reports** | Two individual critique reports on peer presentations evaluating visualisations and techniques. | PDF/Word upload to NTULearn |
+  
+
   - **[Presentation Video](https://www.youtube.com/watch?v=z6MR7f5g8e0)** : Present data insights, trends, and design decisions
   - **[Summary Report](https://github.com/nefelibata28/NTU-Academic-Projects/blob/main/Year4/SC4024/Summary%20Report.pdf)** : Document objectives, methodology, challenges, and findings
   - **[Tableau Data Visualisation](https://public.tableau.com/views/WorldHappinessReport_17609539410660/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)** : Geospatial map, bar chart, line chart, butterfly chart, dashboard
@@ -28,29 +55,57 @@ The project explores the [World Happiness Report (2015–2019)](https://www.kagg
     - Merged multiple annual datasets (2015–2019) into a unified dataset using Python  
     - Converted data from wide to long format to enable time-series and interactive visualisations
 
-### Assignment: Critique the Presentations
-  > Objective: An individual based assignment to develop a critical and constructive eye by evaluating two random peers’ data visualisation videos.
+## Project 2 
+This assignment is to critically analyze video presentations created by classmates (from Project 1) and provide detailed, constructive feedback on the effectiveness of their data visualizations.
 
+## Objectives
+- Identify effective and ineffective use of data visualizations.
+- Demonstrate understanding of data visualization techniques, design principles, and human visual perception (HVP) concepts covered in the course.
+- Provide constructive feedback – Suggest improvements to visuals, visualisation techniques, and storytelling to enhance clarity and impact.
+  
+## Project Deliverables
 - **[Critique 1](https://github.com/nefelibata28/NTU-Academic-Projects/blob/main/Year4/SC4024/Critique%2B1-V27.pdf)**  
 - **[Critique 2](https://github.com/nefelibata28/NTU-Academic-Projects/blob/main/Year4/SC4024/Critique%2B2-V77.pdf)**
 
----
+## Methodology
 
-### Tools Used
-- Tableau
-- Python (pandas, numpy, matplotlib, seaborn, plotly, altair)
-- MS PowerPoint
-- MS Word
+### 1. Data Cleaning & Preparation (Python)
+- Merged datasets (2015–2019).
+- Handled missing values and formatted data for analysis.
+- Converted wide format to long format for time-series visualisations.
 
-### Notes
+### 2. Exploratory Visualisations (Python & Tableau)
+- Box plots, scatter plots, heatmaps, pair plots to explore correlations.
+- Geospatial maps to visualise global happiness distribution.
+- Line charts and stacked bar charts to examine trends over time.
 
+
+### 3. Dashboard & Interactive Visualisations (Tableau)
+- Combined multiple visualisations into dashboards for storytelling.
+- Used animation and sequencing for temporal trends.
+- Designed dashboards for clarity, aesthetics, and effective communication.
+
+### 4. Presentation & Reporting
+- Created a 5-minute video presentation highlighting insights.
+- Summary report documented objectives, methodology, technical challenges, and key findings.
+
+## Key Learnings
+- Mastered data storytelling through visualisation.
+- Developed skills in merging and transforming datasets for analysis.
+- Applied both exploratory and explanatory visualisation techniques.
+- Learned to communicate complex data insights effectively through video and dashboards.
+- Developed a critical eye by evaluating peers’ visualisation presentations.
+
+## Tools & Technologies
+- Tableau – Geospatial maps, dashboards, and interactive visualisations.
+- Python – pandas, numpy, matplotlib, seaborn, plotly, altair for data processing and charts.
+- MS PowerPoint – Video editing and annotations.
+- MS Word – Summary and critique reports.
+
+## Notes
 - All assignments are submitted as part of NTU's official coursework.
 - Files may include assignment descriptions.
 - Please do not plagiarize. This repository is for learning and reference purposes only.
-
-
-
-
 
 
 
