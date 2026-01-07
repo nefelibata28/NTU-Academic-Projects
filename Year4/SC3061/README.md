@@ -8,7 +8,7 @@
 ## Project Overview
 The goal of this project is to design an interactive kiosk interface for Multiversal Studios amusement park that helps visitors plan their day efficiently. The kiosks provide an intuitive, engaging, and interactive experience for visitors, allowing them to select rides, shows, and eateries while factoring in real-time wait times, distances, and group preferences. The project emphasizes usability, user experience, and creativity in interface design.
 
-**Note:** All assignments in this project — [lo-fi prototype](https://github.com/nefelibata28/NTU-Academic-Projects/blob/main/Year4/SC3061/BHATI%20NANCY__SC3061%20LO-FI%20PROTOTYPE.pdf), [usability evaluation](https://github.com/nefelibata28/NTU-Academic-Projects/blob/main/Year4/SC3061/Assignment2_Usability%20Evaluation.pdf), and [hi-fi prototype](https://drive.google.com/file/d/1AO8TOaFp02JzdVPb47vC-S-Omc_zJI2M/view?usp=sharing) are **individual-based assigments**.
+**Note:** All assignments in this project — [lo-fi prototype](https://drive.google.com/file/d/18vAyahq8fpa6B4fxTFvYchS_qYeLmalS/view?usp=sharing), [usability evaluation](https://drive.google.com/file/d/1mvF5DuT0K0xFD-5uTplL6B1ItNIG_Tlj/view?usp=sharing), and [hi-fi prototype](https://drive.google.com/file/d/1AO8TOaFp02JzdVPb47vC-S-Omc_zJI2M/view?usp=sharing) are **individual-based assigments**.
 
 ## Problem Statement
 - Visitors at Multiversal Studios face two main challenges:
