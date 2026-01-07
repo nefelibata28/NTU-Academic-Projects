@@ -17,7 +17,7 @@ This group project was completed as part of the **SC3010 – Computing Security*
 
 
 ## Files
-- [Case Studies Presentation Slide](https://entuedu-my.sharepoint.com/:b:/g/personal/nancy001_e_ntu_edu_sg/EUAWTPCb6g1HlQ78O592nn8B3fVbVFLaf1l__qOn6RCbuA?e=OaaNvg)
+- [Case Studies Presentation Slide](https://drive.google.com/file/d/1L_luwwNyH1MoeDMrFOuX5bQ_I22Uni4P/view?usp=sharing)
 - [Presentation video](https://entuedu-my.sharepoint.com/:v:/g/personal/nancy001_e_ntu_edu_sg/ERLbplAHPnFLiWKkNNFtWZABjhw66u4pjfjSqDcbw22Nhg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=M6zi86)
 
 
