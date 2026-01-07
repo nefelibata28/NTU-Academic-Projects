@@ -73,12 +73,6 @@ The objective was to design, normalize, and implement a relational database that
 - Writing advanced SQL involving joins, grouping, and nested queries
 - Working effectively in a team-based academic setting
 
-## Technical Stack
-- DBMS: MS SQL Server
-- Query Language: SQL
-- Modeling: ER Diagram tools
-- Documentation: PDF reports, screen recordings
-
 ## Notes
 - All work was submitted as part of NTU coursework.
 - This repository is for academic reference and learning purposes only.
