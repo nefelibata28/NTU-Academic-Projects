@@ -29,7 +29,7 @@ This repository contains my academic coursework and projects from **Year 1 throu
 - **SC3020** – Database System Principles
 - **SC3061** – Human Computer Interaction
 - **SC4024** – Data Visualisation
-- **C4079** - Final Year Project
+- **SC4079** - Final Year Project
 
 ---
 
