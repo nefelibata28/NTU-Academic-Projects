@@ -36,7 +36,6 @@ The study establishes baseline performance benchmarks for each model and provide
 - [Results Summary](#results-summary)
 - [Key Findings](#key-findings)
 - [Future Work](#future-work)
-- [References](#references)
 ---
  
 ## Problem Statement
