@@ -5,8 +5,8 @@
 
 
 **Final Year Project | Nanyang Technological University**
-**College of Computing and Data Science**
-**Academic Year 2025/2026**
+** | College of Computing and Data Science**
+** | Academic Year 2025/2026**
  
 **Author:** Bhati Nancy
 **Project Supervisor:** Ast/P Wang Yong
