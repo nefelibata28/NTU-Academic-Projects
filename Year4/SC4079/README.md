@@ -165,11 +165,11 @@ Charts were classified into two complexity tiers to enable comparative evaluatio
  
 | Resource | Description | Link |
 |---|---|---|
-| 📄 Final Year Project Report | Full write-up covering literature review, methodology, results, and discussion | [Report](https://github.com/nefelibata28/NTU-Academic-Projects/blob/main/Year4/SC4079/CCDS25_AI4VIS_FINAL_YEAR_PROJECT_REPORT.pdf) |
-| 📊 Presentation Slides | Final presentation deck summarizing the project | [Slides](https://github.com/nefelibata28/NTU-Academic-Projects/blob/main/Year4/SC4079/FYP%20Presentation%20Slides.pdf) |
-| 📈 Evaluation Spreadsheet | Structured record of all LLM interactions — includes prompts, responses, repetition counts, and final majority-vote answers, enabling systematic comparison across models, tasks, and chart categories | [Spreadsheet](https://entuedu-my.sharepoint.com/:x:/g/personal/nancy001_e_ntu_edu_sg/IQC4Suf-wL_ySI5v5zWc6oHtAVe1PByPz4ysEYOx5EMF6rg?e=hnm9VO) |
+| Final Year Project Report | Full write-up covering literature review, methodology, results, and discussion | [Report](https://github.com/nefelibata28/NTU-Academic-Projects/blob/main/Year4/SC4079/CCDS25_AI4VIS_FINAL_YEAR_PROJECT_REPORT.pdf) |
+| Presentation Slides | Final presentation deck summarizing the project | [Slides](https://github.com/nefelibata28/NTU-Academic-Projects/blob/main/Year4/SC4079/FYP%20Presentation%20Slides.pdf) / [Drive](https://drive.google.com/file/d/13ddGlmyO27jZPQvroZtv58P3FV4260Jq/view?usp=sharing)|
+| Evaluation Spreadsheet | Structured record of all LLM interactions — includes prompts, responses, repetition counts, and final majority-vote answers, enabling systematic comparison across models, tasks, and chart categories | [Spreadsheet](https://entuedu-my.sharepoint.com/:x:/g/personal/nancy001_e_ntu_edu_sg/IQC4Suf-wL_ySI5v5zWc6oHtAVe1PByPz4ysEYOx5EMF6rg?e=hnm9VO) |
  
-> Replace the `#` placeholders above with the actual links (e.g., Google Drive, OneDrive, or relative paths if the files are included in this repository).
+
 ---
  
 ## Future Work
