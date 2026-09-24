@@ -4,16 +4,14 @@
 # AI4VIS: AI-Powered Interactive Creation of Visualisations — Standard Charts
 
 
-**Final Year Project | Nanyang Technological University**
-
-**College of Computing and Data Science**
-
-**Academic Year 2025/2026**
+**Final Year Project | Nanyang Technological University**  
+**College of Computing and Data Science**  
+**Academic Year 2025/2026**  
  
 **Author:** Bhati Nancy  
 **Project Supervisor:** Ast/P Wang Yong  
-**Examiner:** Prof Ong Yew Soon
-**Project Type:** Individual, Research-Based Final Year Project
+**Examiner:** Prof Ong Yew Soon  
+**Project Type:** Individual, Research-Based Final Year Project  
  
 ---
  
