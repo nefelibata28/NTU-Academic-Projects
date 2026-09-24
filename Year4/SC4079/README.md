@@ -19,7 +19,7 @@
 
 AI4VIS evaluates how reliably modern Large Language Models (LLMs) understand and reason about standard data visualisations.
 
-Four LLMs — ChatGPT, Gemini, Claude, and Mistral — were evaluated across three tasks:
+Four LLMs; ChatGPT, Gemini, Claude, and Mistral were evaluated across three tasks:
 
 - Visual encoding interpretation
 - Chart-based question answering
