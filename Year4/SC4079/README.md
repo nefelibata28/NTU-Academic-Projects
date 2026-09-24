@@ -14,6 +14,20 @@
 **Project Type:** Individual, Research-Based Final Year Project  
  
 ---
+
+## Project Overview
+
+AI4VIS evaluates how reliably modern Large Language Models (LLMs) understand and reason about standard data visualisations.
+
+Four LLMs — ChatGPT, Gemini, Claude, and Mistral — were evaluated across three tasks:
+
+- Visual encoding interpretation
+- Chart-based question answering
+- Detection of misleading visualisations
+
+The study uses a structured evaluation framework to compare model performance, response consistency, and recurring error patterns.
+
+---
  
 ## Abstract
  
@@ -198,8 +212,8 @@ This project was completed as part of the Final Year Project requirement for the
  
 ---
  
-## License
- 
-This project is submitted for academic purposes as part of the NTU Final Year Project requirements. Please contact the author for reuse or citation permissions.
+## Usage
+
+This repository is provided for academic and portfolio reference purposes. Please contact the author for permission to reuse or redistribute project materials.
  
 
