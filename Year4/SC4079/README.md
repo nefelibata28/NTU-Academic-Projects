@@ -142,7 +142,7 @@ Charts were classified into two complexity tiers to enable comparative evaluatio
 - **Response Evaluation** — Each response was classified as:
   - ✅ **Correct** — fully matches the expected output
   - ☑️ **Partially Correct** — generally correct with minor errors or close to expected output
-  -  **Incorrect** — significant errors in interpretation or reasoning
+  - ❌ **Incorrect** — significant errors in interpretation or reasoning
 ---
  
 ## Results Summary
