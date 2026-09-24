@@ -141,8 +141,8 @@ Charts were classified into two complexity tiers to enable comparative evaluatio
 - **Response Consistency** — A majority voting mechanism (5 trials per query) was used to select the most frequent response, mitigating randomness and hallucination effects.
 - **Response Evaluation** — Each response was classified as:
   - ✅ **Correct** — fully matches the expected output
-  - 🟣 **Partially Correct** — generally correct with minor errors or close to expected output
-  - 🔴 **Incorrect** — significant errors in interpretation or reasoning
+  - ☑️ **Partially Correct** — generally correct with minor errors or close to expected output
+  -  **Incorrect** — significant errors in interpretation or reasoning
 ---
  
 ## Results Summary
