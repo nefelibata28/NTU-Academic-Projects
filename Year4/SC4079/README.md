@@ -107,7 +107,7 @@ Evaluates analytical reasoning over chart images through structured question typ
 - Difference Between Values
 - Counting-Based Reasoning
   
-### Task 3 — Detection of Misleading Charts
+### Task 3 - Detection of Misleading Charts
 Evaluates the ability of LLMs to identify and explain flawed or misleading visualizations, across six flaw categories:
 - Choice of Chart
 - Color Mess
