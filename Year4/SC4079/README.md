@@ -95,10 +95,10 @@ Models were selected based on their popularity, accessibility, and claimed capab
  
 ## Evaluation Tasks
  
-### Task 1 — Visual Encoding Interpretation
+### Task 1 - Visual Encoding Interpretation
 Evaluates how accurately LLMs identify, understand, and reason about visual encoding elements (**color/hue, position, shape, length**) when interpreting charts.
  
-### Task 2 — Chart-Based Question Answering
+### Task 2 - Chart-Based Question Answering
 Evaluates analytical reasoning over chart images through structured question types:
 - Highest / Lowest Value Identification
 - Direct Value Retrieval
